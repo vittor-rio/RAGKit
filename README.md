@@ -12,13 +12,15 @@ Este projeto utiliza a estratégia **Retrieval Augmented Generation (RAG)** para
 
 **Etapas principais do fluxo com RAG implementado:**
 
-1.  **Criação de Embeddings Vetoriais:**
+![RAG](docs/rag-flow.png)
+
+1.  **Criação de Embeddings Vetoriais(Vector Store Loading):**
     *   O conteúdo de um documento de texto (por exemplo, o livro "A Origem das Espécies") é carregado e dividido em chunks menores.
     *   Para cada chunk de texto, são gerados embeddings vetoriais utilizando um modelo de embeddings da OpenAI (`text-embedding-3-small`). Alternativamente, poderá utilizar modelos Open-Source (`SimCSE`, `SBERT`) para reduzir custos ou até mesmo modelos mais caros como `text-embedding-ada-002` para trazer mais qualidade. 
     *   Estes embeddings, juntamente com os chunks de texto originais e metadados (como um hash do conteúdo), são armazenados num banco de dados vetorial PostgreSQL (utilizando PGVector).
     *   **Script:** `src/vector_store_builder.py` é responsável por este processo.
 
-2.  **ChatFlow no Flowise para Consultas RAG:**
+2.  **ChatFlow no Flowise para Consultas RAG(Retrivial):**
     *   Um chatflow no Flowise é configurado para receber perguntas do utilizador.
     *   Quando uma pergunta é recebida:
         *   É gerado um embedding vetorial para a pergunta do utilizador, utilizando o mesmo modelo de embeddings da OpenAI(`text-embedding-3-small`).
