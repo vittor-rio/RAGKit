@@ -48,7 +48,7 @@ Este projeto utiliza a estratégia **Retrieval Augmented Generation (RAG)** para
 
 ## Pré-requisitos
 Antes de executar o projeto, certifique-se de que tem os seguintes pré-requisitos instalados e configurados:
-1.  **Python 3.8+**
+1.  **Python 3+**
 2.  **Conta OpenAI e Chave API:**  Necessária para usar os modelos de embedding e linguagem da OpenAI. Crie uma conta no [site da OpenAI](https://www.openai.com/) e gere uma chave API.
 3.  **Variáveis de Ambiente Configuradas:**
     *   Use o [.env.exemple](docs/env.exemple) ou crie um arquivo `.env` na raiz do projeto e configure as seguintes variáveis de ambiente:
