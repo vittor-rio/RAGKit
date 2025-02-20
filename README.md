@@ -27,7 +27,7 @@ Este projeto utiliza a estratégia **Retrieval Augmented Generation (RAG)** para
         *   Este embedding da pergunta é usado para realizar uma **busca de similaridade no banco de dados vetorial PostgreSQL**, procurando os chunks de texto que são semanticamente mais relevantes para a pergunta.
         *   Os chunks de texto mais relevantes recuperados do banco de dados vetorial são **inseridos como contexto adicional** no prompt enviado para um modelo de linguagem grande (LLM) como `GPT-4` ou `GPT-4o mini`.
         *   O LLM, agora com o contexto adicional recuperado da base de dados vetorial, gera uma resposta à pergunta do utilizador, baseando-se tanto no seu conhecimento prévio como na informação contextual fornecida pelo RAG.
-    *   **Chatflow Exemplo:** Um exemplo de chatflow já configurado para RAG está disponível no arquivo [`flowise/Case O Boticário __ GenAI __ RAG Chatflow.json`](CaseOBoticárioGenAI-RAGChatflow.json).
+    *   **Chatflow Exemplo:** Um exemplo de chatflow já configurado para RAG está disponível [`para download no projeto`](/flowise/Case%20O%20Boticário%20__%20GenAI%20__%20RAG%20Chatflow.json).
 
 **Vantagens da Estratégia RAG neste Projeto:**
 
@@ -114,7 +114,7 @@ Para experimentar o chatflow RAG de exemplo já configurado:
 
 1.  **Acesse a interface web do Flowise** (`http://localhost:3000`, por padrão).
 2.  No Flowise, navegue até à seção de **Chatflows**.
-- Clique no botão **Import Chatflow** e selecione o arquivo [`flowise/Case O Boticário __ GenAI __ RAG Chatflow.json`](flowise/Case%20O%20Botic%C3%A1rio%20__%20GenAI%20__%20RAG%20Chatflow.json) do seu sistema de arquivos.
+- Clique no botão **Import Chatflow** e selecione o [`arquivo`](flowise/Case%20O%20Boticário%20__%20GenAI%20__%20RAG%20Chatflow.json) do seu sistema de arquivos.
 - O chatflow de exemplo será importado para o seu Flowise. Pode então editá-lo, configurá-lo e testá-lo diretamente na interface do Flowise.
 
 Com estes passos, terá o ambiente configurado, o banco de dados vetorial populado com embeddings do documento de texto, e um exemplo de chatflow RAG pronto para ser utilizado no Flowise. Pode agora começar a interagir com o seu chatbot RAG e explorar as capacidades da técnica RAG implementada neste projeto.
