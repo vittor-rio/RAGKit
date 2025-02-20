@@ -16,18 +16,18 @@ Este projeto utiliza a estratégia **Retrieval Augmented Generation (RAG)** para
 
 1.  **Criação de Embeddings Vetoriais(Vector Store Loading):**
     *   O conteúdo de um documento de texto (por exemplo, o livro "A Origem das Espécies") é carregado e dividido em chunks menores.
-    *   Para cada chunk de texto, são gerados embeddings vetoriais utilizando um modelo de embeddings da OpenAI (`text-embedding-3-small`). Alternativamente, poderá utilizar modelos Open-Source (`SimCSE`, `SBERT`) para reduzir custos ou até mesmo modelos mais caros como `text-embedding-ada-002` para trazer mais qualidade. 
+    *   Para cada chunk de texto, são gerados embeddings vetoriais utilizando um modelo de embeddings da OpenAI (`text-embedding-ada-002`). Alternativamente, poderá utilizar modelos Open-Source (`SimCSE`, `SBERT`) para reduzir custos como o`text-embedding-3-small`. 
     *   Estes embeddings, juntamente com os chunks de texto originais e metadados (como um hash do conteúdo), são armazenados num banco de dados vetorial PostgreSQL (utilizando PGVector).
     *   **Script:** `src/vector_store_builder.py` é responsável por este processo.
 
 2.  **ChatFlow no Flowise para Consultas RAG(Retrivial):**
     *   Um chatflow no Flowise é configurado para receber perguntas do utilizador.
     *   Quando uma pergunta é recebida:
-        *   É gerado um embedding vetorial para a pergunta do utilizador, utilizando o mesmo modelo de embeddings da OpenAI(`text-embedding-3-small`).
+        *   É gerado um embedding vetorial para a pergunta do utilizador, utilizando o mesmo modelo de embeddings da OpenAI(`text-embedding-ada-002`).
         *   Este embedding da pergunta é usado para realizar uma **busca de similaridade no banco de dados vetorial PostgreSQL**, procurando os chunks de texto que são semanticamente mais relevantes para a pergunta.
         *   Os chunks de texto mais relevantes recuperados do banco de dados vetorial são **inseridos como contexto adicional** no prompt enviado para um modelo de linguagem grande (LLM) como `GPT-4` ou `GPT-4o mini`.
         *   O LLM, agora com o contexto adicional recuperado da base de dados vetorial, gera uma resposta à pergunta do utilizador, baseando-se tanto no seu conhecimento prévio como na informação contextual fornecida pelo RAG.
-    *   **Chatflow Exemplo:** Um exemplo de chatflow já configurado para RAG está disponível no arquivo [`flowise/Case O Boticário __ GenAI __ RAG Chatflow.json`](flowise/Case%20O%20Botic%C3%A1rio%20__%20GenAI%20__%20RAG%20Chatflow.json).
+    *   **Chatflow Exemplo:** Um exemplo de chatflow já configurado para RAG está disponível no arquivo [`flowise/Case O Boticário __ GenAI __ RAG Chatflow.json`](CaseOBoticárioGenAI-RAGChatflow.json).
 
 **Vantagens da Estratégia RAG neste Projeto:**
 
@@ -39,9 +39,10 @@ Este projeto utiliza a estratégia **Retrieval Augmented Generation (RAG)** para
 
 * **Python**: Linguagem de programação principal.
 * **Flowise**: Plataforma para orquestração de chat.
-* **PostgreSQL**: Banco de dados para armazenamento dos embeddings.
-* **OpenAI API**: Geração dos embeddings (modelos: `text-embedding-3-small` ou `text-embedding-ada-002`).
-* **LangChain**: Framework para manipulação de documentos e embeddings.
+* **PostgreSQL**: Banco de dados para armazenamento dos embeddings. Ou outro DB para embeddings com suporte no [Flowise](https://docs.flowiseai.com/configuration/databases).
+* **OpenAI API ou outra LLM de sua preferência**: Geração dos embeddings 
+* **LangChain**: Framework para manipulação de documentos e embeddings. Alternativamente também pode gerar as embeddings via Flowise.
+* **LangSmith**: Monitorar, depurar e otimizar a integração com as LLMs [Gerar Chave](https://smith.langchain.com/)
 
 
 # Montando o ambiente para rodar o projeto localmente
@@ -65,7 +66,8 @@ Antes de executar o projeto, certifique-se de que tem os seguintes pré-requisit
 
         **Nota:** Substitua `sua_chave_api_openai_aqui` pela sua chave API da OpenAI e ajuste as configurações do banco de dados PostgreSQL (`DB_USER`, `DB_PASSWORD`, `DB_HOST`, `DB_PORT`, `DB_NAME`, `DB_DEFAULT_NAME`) de acordo com o seu ambiente local ou de servidor.
 4.  **PostgreSQL (com extensão para vetores configurada)** [Guia de Instalação](https://www.postgresql.org/docs/current/tutorial-install.html)
-* Flowise instalado (consulte a documentação oficial) [Guia de Instalação](https://docs.flowiseai.com/getting-started)
+
+5.  **Flowise** [Guia de Instalação](https://docs.flowiseai.com/getting-started)
     **Nota:** O Flowise, por padrão, utiliza o banco de dados em memória. Para usar o Flowise com o PostgreSQL (ou outro banco de dados) para persistência dos dados do Flowise (chatflows, configurações, etc.), consulte a [documentação do Flowise sobre configuração de bancos de dados](https://docs.flowiseai.com/configuration/databases). No contexto deste projeto RAG *especificamente para o banco de dados vetorial*, os embeddings serão sempre armazenados no PostgreSQL, independentemente da configuração de banco de dados do Flowise.
 
 ## Executar os modulos Python para gerar o banco de dados vetorial com os embeddings
@@ -112,8 +114,8 @@ Para experimentar o chatflow RAG de exemplo já configurado:
 
 1.  **Acesse a interface web do Flowise** (`http://localhost:3000`, por padrão).
 2.  No Flowise, navegue até à seção de **Chatflows**.
-3.  Clique no botão **Import Chatflow** e selecione o arquivo [`flowise/Case O Boticário __ GenAI __ RAG Chatflow.json`](flowise/Case%20O%20Botic%C3%A1rio%20__%20GenAI%20__%20RAG%20Chatflow.json) do seu sistema de arquivos.
-4.  O chatflow de exemplo será importado para o seu Flowise. Pode então editá-lo, configurá-lo e testá-lo diretamente na interface do Flowise.
+- Clique no botão **Import Chatflow** e selecione o arquivo [`flowise/Case O Boticário __ GenAI __ RAG Chatflow.json`](flowise/Case%20O%20Botic%C3%A1rio%20__%20GenAI%20__%20RAG%20Chatflow.json) do seu sistema de arquivos.
+- O chatflow de exemplo será importado para o seu Flowise. Pode então editá-lo, configurá-lo e testá-lo diretamente na interface do Flowise.
 
 Com estes passos, terá o ambiente configurado, o banco de dados vetorial populado com embeddings do documento de texto, e um exemplo de chatflow RAG pronto para ser utilizado no Flowise. Pode agora começar a interagir com o seu chatbot RAG e explorar as capacidades da técnica RAG implementada neste projeto.
 
