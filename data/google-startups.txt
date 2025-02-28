@@ -1,0 +1,3847 @@
+Startups &
+Inteligência Artificial Generativa
+Destravando o seu potencial no Brasil
+O início de um novo ciclo de transformação
+no ecossistema de startups
+Em 2022, com o lançamento do estudo
+"O impacto e o futuro da IA no Brasil", em-
+barcamos em uma jornada para desvendar
+o impacto da Inteligência Artificial (IA)
+no ecossistema de startups brasileiro.
+Já naquela época, era evidente que a IA
+representava um ponto de inflexão, abrindo
+portas para importantes inovações. Hoje,
+com a chegada da IA Generativa, essa
+transformação se intensifica ainda mais,
+exigindo um novo olhar sobre o futuro
+das startups no Brasil.
+As startups sempre foram protagonistas
+na utilização da tecnologia para solucionar
+problemas e responder com inovação
+às demandas do mercado e da sociedade.
+A IA Generativa amplifica esse papel,
+fornecendo ferramentas que impulsionam
+a criatividade e a produtividade, abrindo
+caminho para o desenvolvimento de produ-
+tos e serviços antes inimagináveis.
+Estamos agora presenciando o surgimento
+de um novo ciclo de empresas, que são
+impulsionadas pela IA Generativa. Essas
+startups "GenAI first" nascem com a tecno-
+logia integrada ao seu DNA, buscando
+soluções inovadoras desde o início.
+Nós, do Google for Startups, por exemplo,
+reiteramos a nossa missão de conectar
+as startups aos recursos e conhecimentos
+necessários para navegar nesse cenário
+em rápida transformação.
+Mas é importante ressaltar que essa é só
+uma parcela do trabalho. Apesar do potencial
+transformador da IA Generativa, ela enfrenta
+desafios persistentes. Por exemplo, o
+desenvolvimento da tecnologia exige expe-
+rimentação e investimento significativo em
+capital empreendedor, dados de qualidade
+e capacidade computacional.
+Essa realidade torna ainda mais importante
+o papel do ecossistema em fornecer suporte
+e oportunidades. Para enfrentar esses
+desafios, as soluções envolvem diversos
+atores, de aceleradoras e investidores, às
+startups, profissionais de tecnologia e, claro,
+o governo e reguladores. E se quando as
+startups começaram a surgir no Brasil, ainda
+não havia uma estrutura de colaboração
+robusta, hoje temos um ecossistema mais
+maduro para apoiar as startups que desejam
+explorar essa tecnologia.
+Em países como o Brasil, a IA Generativa
+tem um papel fundamental a desempenhar
+na resolução de problemas e desafios locais.
+É crucial que as startups desenvolvam
+soluções com visão e aplicação local,
+levando em consideração as necessidades
+e desafios específicos do nosso país.
+Para garantir que os benefícios da IA
+Generativa cheguem a todos, é necessário
+trabalhar em um combo de conhecimento
+e acesso às ferramentas. Isso significa
+capacitar os empreendedores e startups para
+utilizar a tecnologia de forma eficaz, além
+de garantir que ela seja acessível a todos,
+independentemente do tamanho da empresa
+ou da sua localização geográfica.
+O ecossistema de startups precisa de
+colaboração para enfrentar os desafios que
+surgem com a IA Generativa. É necessário
+construir uma linguagem de confiança com
+a sociedade, demonstrando os benefícios e
+o potencial dessa tecnologia para o futuro.
+A IA Generativa é – e contamos que continue
+sendo – um caminho para gerar eficiência
+e criar valor no nosso dia a dia. Seja no
+trabalho ou em atividades pessoais.
+O momento atual representa o início de uma
+mudança de paradigma importante, que
+demanda um avanço em ritmo acelerado,
+mas sem perder de vista as questões éticas
+fundamentais. As possibilidades que se
+apresentam tem enorme potencial de gerar
+impacto positivo na vida de milhões de
+pessoas, de diversas maneiras. É essencial
+que todos trabalhem juntos para garantir que
+a tecnologia seja desenvolvida e aplicada de
+forma responsável e benéfica à sociedade.
+A IA Generativa abre um novo capítulo para
+as startups brasileiras, oferecendo um universo
+de oportunidades para inovação, crescimento
+e impacto social. Ao trabalharmos juntos
+para superar os desafios e aproveitar as
+oportunidades, podemos garantir que
+o Brasil se posicione como protagonista
+dessa transformação tecnológica.
+ANDRÉ BARRENCE
+Diretor do Google for Startups, América Latina
+2
+"Startups & Inteligência Artificial
+Generativa: Destravando o seu
+potencial no Brasil" é a nova
+pesquisa do Google for Startups
+Brasil que dá seguimento a um
+estudo anterior realizado em 2022
+O primeiro estudo O impacto e o futuro da IA no Brasil
+explorou o uso, o potencial e as lacunas das startups
+brasileiras de Inteligência Artificial. Este trabalho será
+seu complemento aprofundado.
+No novo estudo, buscamos compreender a evolução das
+discussões e, principalmente, os desafios, oportunidades
+e expectativas das startups orientadas pela IA Generativa,
+ou, como vamos nos referir a ela neste material, GenAI.
+Se, em 2022, foi analisado o contexto da AI preditiva,
+agora, em 2024, o foco é na GenAI.
+2022
+AI
+2024
+GenAI
+LEIA O RELATÓRIO ANTERIOR COMPLETO EM:
+goo.gle/gfs-ai
+(en)
+goo.gle/ia
+(pt-br)
+3
+Objetivos
+DIMENSIONAR MAPEAR IDENTIFICAR COMPREENDER
+o mercado de startups
+com foco em GenAI.
+os principais obstáculos e
+lacunas para o desenvolvimento
+de GenAI no Brasil.
+cases de sucesso de startups
+brasileiras com foco em GenAI.
+a posição do mercado de GenAI
+no Brasil frente a outros países,
+identificando oportunidades
+para sua melhor atuação.
+4
+CAPÍTULO 1 CAPÍTULO 2 CAPÍTULO 3
+Recomendações
+estratégicas
+Cenário
+GenAI
+Mapa de dores
+e desafios
+ANEXO
+Metodologia
+e apêndice
+CAPÍTULO 1
+Cenário GenAI
+A melhor forma
+de prever o futuro
+é criá-lo.
+Abraham Lincoln
+Imagem criada com Gemini
+Cenário
+GenAI 7
+1
+2
+O boom da GenAI
+em 2023 trouxe uma
+adoção massiva e um
+crescimento exponencial
+nas discussões sobre IA
+3
+5
+LEGENDA
+4
+1 Desfile Balenciaga
+com personagens
+de Harry Potter (user:
+@demonflyingfox)
+2 Rihanna no tapete
+vermelho do MET
+Gala 2024
+3 Blue Revolution, arte
+gerada via Midjourney pela
+artista Igi Ayedun
+4 Deepfake Elis Regina na
+campanha da Volkswagen
+5 Papa usando jaqueta
+puffer viralizou no Reddit
+(imagem via Midjourney)
+Cenário
+GenAI 8
+Foram necessários
+5 dias para o ChatGPT
+atingir 1 milhão de
+usuários
+Adoção vertiginosamente mais
+rápida do que qualquer outro grande
+lançamento do passado recente.
+Lançamento
+2022 5 dias
+ChatGPT
+2010
+2008
+2008
+2004
+2009
+2006
+2008
+2009
+1999
+Instagram***
+2,5 meses
+Spotify
+5 meses
+7 meses
+Dropbox
+Facebook
+Foursquare***
+10 meses
+13 meses
+Twitter
+Airbnb**
+Kickstarter*
+Netflix
+FONTE:
+Statista / Company announcements via Business Insider/LinkedIn.
+2 anos
+2,5 anos
+2,5 anos
+3,5 anos
+*um milhão de apoiadores
+**um milhão de noites reservadas
+***um milhão de downloads
+9
+A tecnologia já está tão presente
+e sendo abordada pelo mainstream,
+que tem gerado grandes discussões
+na sociedade, como entender se
+determinadas imagens são reais ou
+geradas por ferramentas de GenAI.
+Um caso emblemático foi o recente aparecimento
+de Kate Middleton para o público, que gerou, em igual
+medida, comoção e suspeitas sobre a veracidade da
+imagem. E nessa adoção tão acelerada, a tecnologia
+gera reflexões e acentua polos distintos de avaliação
+sobre seus possíveis impactos.
+Cenário
+GenAI
+É inegável que há um receio
+sobre o tipo de impacto
+que a GenAI pode causar
+Mas, também, acredita-se
+no potencial positivo que
+ela pode gerar
+51% 74%
+56% 41%
+dos brasileiros acreditam
+que a Inteligência Artificial
+pode piorar a desinformação.
+dos brasileiros acreditam
+que com a IA é mais fácil
+gerar imagens e histórias
+falsas super realísticas.
+dos brasileiros confiam
+que as empresas que
+usam IA protegerão seus
+dados pessoais.
+FONTE:
+Global Views on AI and Information, Ipsos, 2023.
+FONTE:
+“Global Views on AI 2023”, Ipsos, 2023.
+dos brasileiros acreditam que a
+inteligência artificial irá melhorar
+a produtividade no trabalho,
+mesmo que 25% pensem que
+todo o seu trabalho poderia ser
+realizado pela IA.
+FONTE:
+Atlantico Digital Transformation Report
+2023.
+Cenário
+GenAI
+11
+Imagem criada com Gemini
+O papel deste relatório é ancorar
+no ângulo das possibilidades, pois
+a GenAI representa um território
+fértil e transformacional para todas
+as categorias, obviamente sem
+esquecer de todos os aspectos
+preocupantes que existem
+A verdade é que, como toda grande tecnologia
+nova, que irá transformar vários diversos
+mercados, há uma sensação de que todos
+estão navegando no escuro e explorando ao
+mesmo tempo, na ânsia de serem aqueles que
+encontrarão o mapa da mina rapidamente.
+A GenAI mudou a visão das pessoas. Hoje
+estão entendendo mais o poder da IA e fica
+mais fácil para os negócios que trabalham
+com isso. Todo mundo está buscando gerar
+resultados com a tecnologia e, se você está
+desconsiderando, pode até gerar um FOMO
+(Fear of Missing Out) de pensar: 'será que
+estou ficando para trás?'
+Entrevista com Founder, Alumni
+Cenário
+GenAI 12
+GenAI
+Curva de adoção
+2022
+2023 2024+
+Quando se olha e se compara, inclusive,
+a curva de adoção da GenAI entre
+corporações e pessoas, se percebe
+como há um movimento ubíquo de
+testes, experimentações e usos. Todo
+mundo está usando, mas em tempos
+e movimentos diferentes.
+ATO 1
+Experimentação
+ATO 2
+Aceleração
+ATO 3
+Disrupção
+PESSOAS CAPACITADAS
+CASOS DE USO DESCENTRALIZADOS
+As empresas, nesse caso, um pouco
+mais atrasadas que as pessoas,
+o que sugere também a necessidade
+de aceleração e maior organização
+em governança a busca por ganho
+de escala das corporações.
+(...) as empresas ainda estão
+na fase de experimentação em
+bases individuais ou em uma
+área específica.
+UNIDADES ACIONADAS
+GOVERNANÇA ALINHADA
+(...) Apenas 6% das empresas que
+constam da pesquisa da AWS
+puseram em produção algum
+aplicativo de IA generativa.
+NEGÓCIO IMPULSIONADO
+ESCALA EXPONENCIAL
+(...) entre os participantes da
+Wavestone, somente 5% fizeram
+algo que tenha ganho de escala.
+Pesquisas sugerem que, embora a
+empolgação com a IA generativa
+seja muito alta, o valor ainda não foi
+entregue em grande parte (...)
+FONTE:
+MIT Sloan
+FONTE:
+MIT Sloan
+FONTE:
+MIT Sloan
+FONTE:
+MIT Sloan
+Adoção corporativa
+Cenário
+GenAI 13
+GenAI
+Curva de adoção
+2023
+AS EMPRESAS FICAM ATRÁS DOS
+FUNCIONÁRIOS NA ADOÇÃO
+2022
+ATO 2
+Aceleração
+2024+
+ATO 1
+Experimentação
+UNIDADES ACIONADAS
+GOVERNANÇA ALINHADA
+ATO 3
+Disrupção
+PESSOAS CAPACITADAS
+CASOS DE USO
+DESCENTRALIZADOS
+NEGÓCIO IMPULSIONADO
+ESCALA EXPONENCIAL
+Uma pesquisa de 2023 da
+McKinsey intitulada "The Economic
+Impact of Generative AI" com
+14.000 usuários de diversas
+profissões em 14 países descobriu
+que 28% dos entrevistados já
+estavam utilizando IA generativa
+no trabalho, mesmo sem muito
+apoio de suas organizações; dos
+usuários de IA generativa, 55%
+trabalharam com ferramentas
+não aprovadas e 40% com
+ferramentas proibidas.
+80%
+Porcentagem de funcionários (em
+uma pesquisa global com 10.000)
+que usaram ferramentas de IA no
+trabalho e relataram ter visto uma
+melhoria na produtividade.
+FONTE:
+Slack’s Workforce Labs, 2024.
+Adoção indivual Adoção corporativa
+Cenário
+GenAI 14
+A revolução de GenAI
+chegou com força
+A tecnologia está provocando
+transformações em todas as
+indústrias, levantando questões
+políticas, sociais, tecnológicas,
+ambientais e legais em escala
+Global e Local.
+Imagem criada com Gemini
+Cenário
+GenAI 15
+Global América Latina Brasil
+A GenAI representa uma revolução
+transversal e transformacional que
+está mudando todas as categorias
+TRADUÇÃO ATENDIMENTO
+AO CLIENTE
+MÍDIA PROGRAMAÇÃO DIREITO
+Google Translate
+OpenAI’s Whisper
+ChatGPT-4
+DeepL
+Alexa Translations
+Bing Microsoft
+Translator
+Second Nature
+TheLoops AI
+Yuma AI
+Tiledesk
+Echowin
+Chatfuel
+Jasper.ai
+Shutterstock AI
+Runway
+Grammarly
+Seventh Sense
+MidJourney
+OwlyWriter
+GitHub Copilot
+Codex
+Brancher.ai
+Imagica.ai
+Codeium
+CodeWhisperer
+LegalRobot
+DoNotPay
+Latch
+OneLaw.ai
+Casetext
+LeGAI
+Segundo dados da McKinsey
+de 2023,
+55%
+das organizações adotaram
+IA em pelo menos uma área
+de negócios em 2023.
+EDUCAÇÃO FINANÇAS ENTRETENIMENTO MEDICINA
+Carnegie Learning
+Knewton
+Century Tech
+Superchat
+Teach
+FX
+Prof Jim
+Monic
+BloombergGPT
+Trustfinta
+Advisory Board
+Lemon Squeezy
+Paddle
+Finance Brain
+Covers.ai
+Charisma AI
+Latitude
+Beatoven
+Podcastle
+Ecrett Music
+BioNeMo
+GT4SD
+Syntegra
+Pi
+Twill
+Regardz
+Cenário
+GenAI
+16
+Trouxe potenciais novas
+tech companies para a
+mesa de discussão
+INDUSTRIAL ERA
+THE TIME REVOLUTION
+DIGITAL ERA
+THE SPACE REVOLUTION
+IMAGINATION ERA
+THE CREATION REVOLUTION
+#1 General Eletric $406B
+#2 Microsoft $365B
+#3 Exxon $272B
+#4 Citi Bank $261B
+#5 Walmart $260B
+#1 Apple $1.302B
+#2 Microsoft $1.214B
+#3 Amazon $934B
+#4 Alphabet $261B
+#5 Meta $260B
+#1 Nvidia $1.977B*
+#2 OpenAI $80B*
+#3 Anthropic $18.4B*
+#4 Hugging Face $4.5B*
+#5 Inflection $4B*
+* Nota: Últimas avaliações.
+FONTES:
+Diversas.
+BUILDING BORN COMPANIES CLOUD BORN COMPANIES SMART BORN COMPANIES
+Imagem criada com Gemini
+Global América Latina Brasil
+A GenAI também começou uma
+reconfiguração de quem são os
+novos players, que se misturam
+a outros já consolidados, gerando
+um cenário de maior pulverização
+e distribuição de poder, antes mais
+concentrado nas Big Five: Alphabet,
+Amazon, Apple, Meta e Microsoft.
+FONTE:
+McKinsey & Company, 2023
+Segundo estudo de 2023 da
+Quid, nesse mesmo ano, foram
+investidos 25,2 bilhões de dólares,
+número 9 vezes mais que em 2022,
+e 30 vezes mais que em 2019. Já a
+Epoch aponta que, em 2023, houve
+2x mais lançamentos de novos
+Large Language Models (LLMs)
+em relação a 2022.
+17
+Houve também uma
+intensificação das
+disputas pela liderança
+de IA, com os EUA e
+China medindo forças
+em muitos aspectos
+US$ 67,2bi
+Segundo a Quid, foram investidos 67.2
+bilhões de dólares em IA nos EUA,
+número 8,7 vezes maior que a China,
+segundo maior investidor.
+Por fim, há uma supremacia americana
+no número de modelos, sejam funcionais
+ou notáveis.
+MODELOS FUNDACIONAIS
+109
+20
+MODELOS NOTÁVEIS
+15
+61
+25
+15
+FONTE:
+Epoch, 2023 e Bommasani et al., 2023
+Global América Latina Brasil
+61%
+Por outro lado, o Center for Security and
+Emerging Technology, afirma que 61,1% das
+patentes de AI no mundo em 2022 vieram da
+China, enquanto os EUA respondem por 20,9%.
+FONTE:
+Center for Security and Emerging Technology, 2023
+Quando você olha o paper, por
+exemplo, do Google Lumiere, com
+pesquisadores do mundo inteiro, de
+Israel, China, Coreia do Sul, todos
+com PhD, trabalhando em conjunto,
+no Brasil temos pesquisadores
+isolados, algo que não é multicultural
+ou multidisciplinar. Pesquisadores
+não trabalham com empresas que
+estão fazendo AI, nem com outros
+pesquisadores. E a AI depende de
+um esforço coletivo.
+Entrevista com Founder, Alumni
+18
+Global América Latina Brasil
+A GenAI promete transformar completamente
+a relação das pessoas com trabalho
+Estudos mostram que a IA pode aumentar
+a produtividade em até 40% e a qualidade
+do trabalho em até 12%.
+FONTE:
+Harvard Business School
+Apenas 21% dos entrevistados que relatam
+a adoção de IA dizem que suas organizações
+estabeleceram políticas de uso de tecnologias
+de IA Generativa no trabalho pelos funcionários.
+FONTE:
+McKinsey, 2023
+59% das empresas relatam aumento de
+receita e 42%, redução de custos após a
+adoção de IA.
+FONTE:
+McKinsey, 2023
+43% das empresas esperam que a IA leve
+a uma redução no número de funcionários
+nos próximos 3 anos.
+FONTE:
+McKinsey, 2023
+84% dos CMOs globais planejam lançar novos
+produtos e modelos de negócio possibilitados
+pela GenAI.
+FONTE:
+McKinsey, 2023
+Embora o investimento em IA esteja crescendo, a
+proporção de vagas de emprego relacionadas à IA
+nos EUA diminuiu de 2% em 2022 para 1,6% em 2023.
+FONTE:
+Lightcast, 2023
+Imagem criada com Gemini
+Cenário
+GenAI
+Dentro dessa revolução, é
+preciso considerar os efeitos
+sobre o meio ambiente
+10 A 100 VEZES
+MAIS EMISSÕES
+em tarefas de geração
+de imagens do que
+processamento de texto.
+SYMBIOSIS COALITION
+FONTE:
+Power Hungry Processing
+Em um compromisso significativo, algumas empresas
+globais de tecnologia que possuem um impacto
+significativo, se uniram para criar a Symbiosis
+Coalition. Formada por Google, Meta, Microsoft e
+Salesforce, a iniciativa tem o objetivo de remover 20
+milhões de toneladas de carbono da atmosfera até
+2030, por meio da compra de créditos de carbono.
+502 TONELADAS DE CO2
+foram emitidos para o
+treinamento do modelo GPT-3,
+o equivalente a 126 carros a
+gasolina dirigindo por um ano.
+O foco inicial estará em projetos de florestamento
+e reflorestamento, incluindo agroflorestas, e em
+uma etapa posterior, na restauração de manguezais.
+A prioridade será dada a projetos que combinem
+transparência, benefícios à biodiversidade e envol-
+vimento de comunidades locais, buscando resultados
+justos para todos.
+A iniciativa busca impulsionar o mercado de créditos
+de carbono e estabelecer parâmetros de qualidade
+para os projetos, reconhecendo os desafios do
+mercado e buscando maior confiança do público.
+FONTE:
+Power Hungry Processing
+Global América Latina Brasil
+LLMs possuem um custo ambiental significativo que muitas
+vezes é negligenciado. Quanto maior o modelo, maior seu
+consumo. É preciso abordar esse impacto para garantir um
+futuro ético e sustentável para a tecnologia.
+Falta transparência de forma geral na indústria quanto
+ao impacto ambiental causado por seus modelos
+FOUNDATION MODEL TRANSPARENCY INDEX TOTAL SCORES, 2023
+Company Model Score
+Meta Llama 2
+BigScience BLOOMZ
+OpenAI GPT-4
+stability.ai Stable Diffusion 2
+Google PaLM 2
+Anthropic Claude 2
+cohere Command
+AI21labs Jurassic-2
+Inflection Inflection-1
+Amazon Titan Text
+FONTE:
+54%
+53%
+48%
+47%
+40%
+36%
+34%
+25%
+21%
+12%
+The Foundational Model Transparency Index
+20
+A rápida evolução da GenAI exige um
+equilíbrio delicado entre fomentar inovação e
+implementar regulamentações para proteger
+a sociedade de potenciais riscos e abusos
+A Declaração de Bletchley, assi-
+nada por 28 países, é um exemplo
+de esforço conjunto para mitigar
+os riscos da IA e promover a
+cooperação internacional.
+2175 menções sobre IA em
+documentos foram registradas
+em congressos e parlamentos de
+49 países em 2023. Esse número
+foi de 1247 em 2022.
+FONTE:
+ForumIAS
+FONTE:
+BCG
+Cenário
+GenAI
+Global América Latina Brasil
+O número de regulamentações relacionadas à IA nos EUA
+aumentou 56,3% em 2023
+NÚMERO DE REGULAÇÕES RELACIONADAS
+A IA DE ACORDO COM A ABORDAGEM
+15
+12
+10
+5
+10
+8
+3
+0
+EUA UE
+FONTE:
+AI Index, 2024
+Expansivas Restritivas
+Global América Latina Brasil
+A adoção massiva em escala global
+da GenAI começa a ser percebida tanto
+no desenvolvimento de projetos, quanto
+na adoção de estratégias nacionais
+Há um claro aumento de projetos
+de IA realizados por países periféricos
+ou em desenvolvimento no GitHub
+nos últimos anos. O próprio Brasil
+possui a maior comunidade de
+desenvolvedores da América Latina
+e a quarta maior do mundo no
+GitHub, segundo a própria plataforma.
+E praticamente todos os países
+do mundo já estão endereçando
+alguma estratégia nacional
+sobre IA, com exceção de países
+mais pobres e com menor
+desenvolvimento, como alguns
+da África, Ásia e América Latina.
+PAÍSES COM ESTRATÉGIA NACIONAL SOBRE IA, 2023
+PROJETOS DE IA NO GITHUB (% DO TOTAL) POR ÁREA GEOGRÁFICA, 2011-23
+60%
+50%
+Anunciado
+Em desenvolvimento
+Não anunciado
+40%
+30%
+20%
+10%
+0%
+37,09% Resto do mundo
+22,93% Estados Unidos
+19,01% Índia
+17,93% União Europeia e Reino Unido
+3,04% China
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+FONTE:
+AI Index, 2024 | Chart: 2024 AI Index report
+FONTE:
+GitHub, 2023 | Chart: 2024 AI Index report
+Cenário
+GenAI 22
+Como visto, a
+Revolução da GenAI
+está transformando
+o mundo
+Mas qual seu impacto
+específico na América Latina
+e no Brasil?
+Imagem criada com Gemini
+Cenário
+GenAI 23
+Quando mergulhamos
+na realidade da América
+Latina, vemos um cenário
+ligeiramente defasado, mas
+com investimentos para
+transformar a realidade,
+basta uma maior vontade
+de todos estes atores
+Global América Latina Brasil
+Apesar dos desafios que a região
+enfrenta, como o quoeficiente de
+pesquisadores por dólar investido
+em Deep Tech ser 13 vezes menor
+se comparado com a China e
+70 vezes menor se comparado
+com os EUA (Fonte: Lavca) e um
+cenário regulatório ainda em
+desenvolvimento, as plataformas
+de IA na América Latina estão
+projetadas para crescer 38%.
+Segundo dados do AI Adoption
+Index de 2022, da IBM, a América
+Latina tem apenas 29% de
+implementação de IA, abaixo da
+média global de implementação
+que é de 34%.
+Até
+2027
+um quarto dos gastos principais
+de TI das 5 mil principais empresas
+da América Latina serão alocados
+em IA Generativa.
+FONTE:
+Época Negócios
+24
+Global América Latina Brasil
+A América Latina tem potencial para ser a região líder do Sul Global
+em desenvolvimento de IA e GenAI, por se apresentar mais preparada
+em dados e infraestrutura, governança e tecnologia do que outras
+regiões em desenvolvimento, como a África ou países do Pacífico.
+EM LEVANTAMENTO DE 2023 FEITO PELA UNIVERSIDADE DE OXFORD,
+O "GOVERNMENT AI READINESS INDEX", HÁ ALGUNS DESTAQUES
+REGIONAIS EM TRÊS FRENTES:
+ÍNDICE DE PRONTIDÃO DE GOVERNOS PARA A IA
+EM PAÍSES DA AMÉRICA LATINA
+PRONTIDÃO PARA IA POR PAÍS, 2023
+72
+Dados e Infraestrutura, que se refere à disponibilidade e representatividade
+de dados e infraestrutura necessária para alimentar ferramentas de IA:
+traz a acessibilidade ainda como uma barreira para melhorar o acesso à
+infraestrutura, no qual o Uruguai se destaca neste pilar, junto com o Brasil.
+63 61 60 58 58
+75
+Em Governança, que é a visão estratégica no desenvolvimento e
+gerenciamento de IA apoiada por regulamentação, governança e ética:
+apenas 20% dos países da região publicaram uma estratégia de IA.
+A Colômbia se destaca mais neste pilar, com regulações crescentes
+e mais preparadas que os demais países.
+50
+Média mundial
+(45)
+45
+Tecnologia, que é o fornecimento de ferramentas de IA, fluxo de pesquisa,
+ambiente para empreendedorismo e nível de capital humano: o Brasil
+se destaca, apesar de ser o maior desafio regional – a América Latina
+possui uma população jovem e talentosa que necessita de conhecimento
+especializado em ciência da computação e áreas relacionadas.
+Brasil Chile Uruguai Colômbia México
+Argentina
+#32
+#54
+#41 #46 #53 #68 World Rank
+FONTE:
+Oxford “Government AI Readiness Index” 2023
+Cenário
+GenAI
+Todo esse potencial representa
+uma oportunidade única para
+impulsionar o crescimento
+econômico e a inovação na
+América Latina, promovendo
+saltos que podem colocar a
+região com maior destaque
+no mundo em diversas áreas,
+não apenas a tecnológica
+Global América Latina Brasil
+US$3,9tri 8,6x
+Valor de mercado de empresas de
+tecnologia na América Latina pode
+crescer em US$ 3,9 trilhões se a região
+atingir o nível dos EUA, segundo
+relatório da Atlantico.
+Para a Lavca, o investimento em
+startups de AI na América Latina
+cresceu 8,6 vezes entre 2019 e
+2023, atingindo US$ 11,6 bilhões.
+11,6%
+O mesmo relatório também aponta um
+crescimento de 11,6% de investimento
+esperado em IA na América Latina
+para o ano de 2024. Em 2023, foi 2,6%,
+o que representa um aumento de 4,5
+vezes de um ano para o outro.
+FONTE:
+Latin America Digital Transformation Report 2023
+Mas sabemos que o cenário não é
+sempre positivo, pois as nuances e
+os ônus e bônus andam sempre lado
+a lado na região. O mesmo relatório
+da Lavca que apontou o crescimento
+no investimento em startups de AI
+na América Latina mostrou que o
+investimento global de Venture Capitals
+(VCs) na região teve a maior queda
+dentre todas comparadas, saindo
+de US$3 bilhões em Q2-22 para
+US$1 bilhão em Q2-23.
+26
+Global América Latina Brasil
+Quando se fala na relação com o trabalho, o temor de perder emprego
+se mistura aos altos custos e escassez de mão de obra. A GenAI exigirá
+adaptação e investimentos urgentes em educação e redução de custos
+para garantir uma adoção massiva e responsável da tecnologia na região.
+45%
+dos fundadores de startups na América Latina
+acreditam que a escassez de mão de obra qualificada
+é o principal obstáculo para o desenvolvimento da AI,
+contra uma média mundial de 41%
+35%
+41%
+dos fundadores de startups na América Latina
+reclamam do alto custo para adoção tecnológica,
+contra uma média mundial de 26%
+das empresas já estão
+investindo em upskilling/
+reskilling de funcionários
+para a implementação de AI.
+63%
+dos latino-americanos acreditam que a AI possa
+fazer parte ou todo seus trabalhos, ao passo que,
+nos Estados Unidos, esse número cai para 42%
+FONTE:
+Latin America Digital Transformation
+Report 2023
+*FONTE:
+MIT Technology Review
+**FONTE:
+Latin America Digital Transformation Report 2023
+27
+Financiamentos e negociações por região
+global no primeiro trimestre de 2024
+EUROPA
+1,6B
+150 Deals
+CANADÁ
+200M
+18 Deals
+ÁSIA
+1,9B
+166 Deals
+EUA
+9,3B
+389 Deals
+ÁFRICA
+22M
+4 Deals
+LATAM
+22M
+9 Deals
+OCEANIA
+22M
+3 Deals
+FONTE:
+CBINSIGHTS
+Cenário
+GenAI 28
+Global América Latina Brasil
+DOIS ESTUDOS DE CASOS ILUSTRAM BEM ESSE CENÁRIO POTENCIAL:
+A AI e a GenAI podem
+transformar não só os negócios,
+mas também a educação na
+América Latina, tornando-a
+mais inclusiva e eficiente,
+e preparando os estudantes
+para as demandas do futuro. 10%
+A brasileira Letrus melhorou em 10%
+as notas de redação e indicadores
+de texto dos alunos no ENEM.
+20%
+O chatbot de AI da colombiana
+Platzi aumentou em 20% o número
+de cursos realizados por dia e em
+15% a taxa de conclusão dos cursos.
+FONTE:
+J-PAL/FGV Letrus Impact Evaluation
+FONTE:
+J-PAL/FGV Letrus Impact Evaluation
+Cenário
+GenAI 29
+E como está o prota-
+gonismo brasileiro
+das startups com foco
+em GenAI?
+Vê-se um cenário complexo e
+não tão favorável para startups.
+Apesar disso, o Brasil se destaca na
+América Latina puxando a liderança
+da inovação na região.
+Imagem criada com Gemini
+Cenário
+GenAI 30
+No cenário brasileiro há um
+contexto extremamente propício
+para um grande protagonismo
+do país na liderança da GenAI
+em toda a região LATAM, afinal,
+o Brasil é um dos países mais
+digitalmente conectados e
+abertos à tecnologia no mundo.
+Global América Latina Brasil
+horas
+9 7
+por dia
+bilhões de
+transações
+é a média de tempo que os
+brasileiros passam conectados à
+internet, segundo a We Are Social.
+FONTE:
+Digital Global, We Are Social e Meltwater, 2024.
+O brasileiro é um early adopter de
+tecnologia. As inovações tendem
+a ter um efeito rápido aqui, vide
+o sucesso do Pix. Segundo dados
+do Banco Central de 2021, foram
+realizadas mais de 7 bilhões de
+transações já no primeiro ano de
+lançamento da tecnologia.
+95%
+acreditam que as marcas poderiam
+utilizar a GenAI para serem mais
+inovadoras, conforme o estudo
+"IA Generativa: O que os consumi-
+dores desejam", da Thoughtworks.
+No já citado estudo da Ipsos
+de 2023, 66% dos brasileiros
+entrevistados estão animados
+com o uso da tecnologia e
+64% acreditam que há mais
+benefícios do que desvantagens
+FONTE:
+“Global Views on AI 2023”, Ipsos, 2023.
+31
+Global América Latina Brasil
+Mesmo assim, é importante reforçar que o
+cenário de prosperidade brasileira infelizmente
+não é para todo mundo, reflexo de um país
+com desigualdade extrema e histórica
+TECNOLOGIA PARA REDUZIR
+DESIGUALDADES
+O Brasil é o
+14º país mais
+desigual do
+mundo
+DESIGUAL NO ACESSO À
+TECNOLOGIA E CONSUMO
+Até 2025, cerca de 14% das
+conexões de rede móvel serão
+feitas via 5G em todo o mundo.
+Na América Latina, esse número
+cai para 7%.
+FONTE:
+Statista
+ILHADO EM TROCA DE
+REFERÊNCIAS COM O MUNDO
+Aproximadamente, 5% dos
+brasileiros falam inglês básico, e
+apenas 1% são fluentes no idioma.
+FONTE:
+British Council
+O Google criou um sistema de ende-
+reçamento digital chamado Plus
+Code, que tem como objetivo facilitar
+a localização de lugares em qualquer
+localidade do mundo. Esse sistema é
+especialmente relevante em áreas que
+não possuem endereços tradicionais,
+como ruas e números. Ele funciona
+como um código postal, utilizando uma
+combinação de letras e números curtos
+e fáceis de lembrar.
+FONTE:
+Índice de Gini, 2023
+36,2M de brasileiros não recebem
+compras ou têm acesso limitado
+a serviços essenciais devido
+à falta de CEPs (Códigos de
+Endereçamento Postal).
+FONTE:
+Data Favela
+DESIGUAL NO LETRAMENTO DA
+POPULAÇÃO
+No Brasil, cerca de 30% da
+população é analfabeta funcional,
+sem capacidade para compreender
+uma sentença, o que corresponde a
+cerca de 38 milhões de brasileiros.
+FONTE:
+Inaf
+No Brasil, o Plus Code foi lançado em
+maio de 2022 e já está disponível em
+todo o país. O Google está trabalhando
+em parceria com governos e empresas
+para mapear áreas sem endereçamento
+formal, ou seja, que não possuem CEP,
+e criar Plus Codes para esses locais,
+passando a incluí-los no mapa.
+Cenário
+GenAI 32
+Global América Latina Brasil
+Quanto às startups, é um dos pólos mais atraentes
+para investimento da América Latina, tanto em valor
+quanto em número de startups existentes
+AI REPRESENTATIVA
+16% DAS STARTUPS DE DEEP TECH
+Na verdade, o Brasil possui
+o ecossistema de startups
+mais influente da América
+Latina. Startups sediadas
+no país levantaram
+US$17.6 bilhões entre 2019
+e 2023, o equivalente a
+47% do total de dólares de
+capital de risco investidos
+na América Latina.
+Dessa forma, o país
+acaba naturalmente
+sendo uma das
+lideranças para o
+desenvolvimento
+de Deep Tech. SETORES LÍDERES POR NÚMERO DE STARTUPS DE DEEP TECH:
+$1,9bi
+é o valor do ecossistema
+30%
+de todas as startups de
+Deep Tech da América
+Latina e Caribe
+Biotech
+I.A
+Adv. Mobility
+Spacetech
+Nanotech
+Cleantech
+Healthtech
+Adv. Manufacturing
+57%
+16%
+10%
+5%
+4%
+3%
+3%
+2%
+FONTE:
+LAVCA Trends in Tech, 2024
+FONTE:
+Deep Tech, The New Wave
+Cenário
+GenAI 33
+Global América Latina Brasil
+Como já refletido anteriormente,
+existe uma sombra que é reflexo
+do próprio país:
+O cenário é pungente, mas não é distribuído de forma
+igualitária nem possui um grande respaldo governamental.
+A desigualdade se mostra também no cenário de inves-
+timentos e prioridades para o país.
+O investimento de
+Venture Capitals (VCs)
+em startups como %
+do PIB no Brasil pouco
+tem se alterado: de
+0,02% em 2017 para
+0,1% em 2022.
+FONTE:
+Atlantico Digital Transformation Report 2023
+2017
+0,02%
+2022
+0,1%
+12,7mil 1,2%
+startups no Brasil
+do PIB
+Em média, elas atingem crescimento
+médio de dois dígitos todo ano.
+É o investimento do Brasil
+em Ciência e Tecnologia.
+45% 50%
+de todo o investimento em
+startups na América Latina no
+Q1 de 2023 foram para fintechs.
+dos unicórnios da América Latina
+são do Brasil, mas com foco maior
+em fintechs e marketplaces já
+consolidados, como Nubank,
+iFood e Hotmart
+FONTE:
+Associação Brasileira de Startups, 2023.
+FONTE:
+senado.leg.br/radio
+FONTE:
+Atlantico Digital Transformation Report 2023
+FONTE:
+Distrito, 2024
+Cenário
+GenAI 34
+QUEM SÃO ELAS
+Todas as categorias estão
+descobrindo e começando
+a usar GenAI
+Quando se aprofunda na pesquisa
+quantitativa e se desenha um recorte
+específico para entender o estado da
+GenAI no país, percebe-se que todas
+as categorias estão descobrindo
+e começando a usar a tecnologia.
+É evidente que há uma multiplicidade
+de setores utilizando a tecnologia,
+o que reforça a adoção massiva e o
+hype do próprio assunto.
+AI as a Service (AIaaS) BI & Analytics
+Consultoria
+Educação
+Fintech & Serviços Financeiros
+Chatbot
+Propaganda & Marketing
+Saúde & Medicina
+Produtividade
+Recursos Humanos
+Agtech
+E-commerce
+Energia
+Impacto Social
+Legal Tech
+Logística
+Manufatura
+Segurança & Policiamento
+Seguros
+Smart Cities
+13%
+11%
+11%
+11%
+11%
+8%
+5%
+5%
+5%
+3%
+3%
+2%
+2%
+2%
+2%
+2%
+2%
+2%
+2%
+2%
+Há uma predominância
+levemente maior de empresas
+de serviços (AI as a service,
+BI & Analytics e Consultoria)
+e de dois segmentos de
+mercado (Educação e Fintech
+& Serviços Financeiros).
+PERGUNTA:
+A startup que você trabalha é de qual setor?
+Amostra: 63 respostas | EST/RM
+FONTE:
+Startups & GenAI in Brazil: Unlocking the GenAI
+potential in Brazil, Box 1824, 2024
+Cenário
+GenAI 35
+O mercado ainda apresenta muita
+homogeneidade e baixa representatividade
+comparado ao que é o Brasil
+90% 78% 81%
+são heterossexuais são brancos homens cis
+PERGUNTA
+Com qual orientação
+sexual você se identifica?
+(EST/RU) Amostra: 63
+respostas
+PERGUNTA
+Vou fazer uma pergunta exatamente
+como é feita pelo IBGE para a
+classificação da população brasileira.
+A sua cor ou raça é: (EST/RU)
+Amostra: 63 respostas.
+PERGUNTA
+Com qual gênero
+você se identifica?
+Amostra: 63 respostas
+O Brasil tem uma diversidade
+grande de startups em cada
+região, mas no eixo Rio-São
+Paulo, principalmente, São Paulo
+que recebe investimento.
+Entrevista com Founder, Alumni
+Distribuição geográfica
+das startups respondentes
+DF
+3%
+SP
+60%
+PERGUNTA
+Qual é a cidade e estado sede
+da sua startup? (ESP/RU)
+Amostra: 63 respostas.
+RS
+3%
+OUTROS
+22%
+MG
+6%
+RJ
+3%
+36
+Assim como há um imenso
+desafio de ganhar escala
+Apesar do potencial de crescimento do
+mercado, as startups ainda estão em
+estágios iniciais dos seus desenvolvimentos
+Ser fundador de startup precisa
+ter muita resistência e persistência.
+Você não vai encontrar investimento,
+todo mundo vai bater a porta na sua
+cara, vão dizer que não entendem
+o que você faz.
+Entrevista com Founder, Não-Alumni
+Os fundos de investimento ainda
+tem uma visão muito curto-prazista,
+algumas coisas demoram para dar
+resultado, aí acabam investindo
+mais naquilo que vai trazer retorno
+mais imediato.
+Entrevista com Founder, Alumni
+SOBRE INVESTIMENTO
+das startups têm
+55% 29% 13%
+até 15 funcionários.
+38%
+nunca passou por nenhuma
+rodada de investimento.
+ainda está na fase
+de pré-seed.
+estão na fase de seed.
+PERGUNTA
+Em qual rodada de
+investimento a startup
+que você trabalha está
+atualmente? (EST/RU)
+Amostra: 63 respostas.
+PERGUNTA
+Quantas pessoas trabalham na startup em que você trabalha?
+(considere todos os tipos de contratação em vigência) (EST/RU)
+Amostra: 63 respostas.
+Cenário
+GenAI 37
+E as empresas hoje possuem
+uma natureza de serem negócios
+B2B, algo já identificado no
+relatório anterior
+EM 2021
+B2B
+30,6%
+B2B+
+55,1%
+B2C
+6,1%
+B2G
+8,2%
+Dessa forma, o conhecimento mainstream sobre
+o que é GenAI e suas implicações, positivas ou
+negativas, acabam ficando mais restritas aos
+grandes produtos consumer facing, como Gemini
+ou ChatGPT, e menos às múltiplas possibilidades
+que cada startup está desenvolvendo.
+FONTE:
+DISTRITO. Inteligência Artificial Report. São Paulo: Distrito, Janeiro 2021. 1 pdf.
+EM 2024
+B2B
+71%
+B2B2C
+19%
+B2C
+5%
+B2G
+2%
+Acredito muito que a IA generativa
+não se trata de quem consegue
+criar um modelo melhor [...]
+Trata-se, na verdade, de criar a
+plataforma certa e o conjunto
+de ferramentas que permitirão a
+proliferação de novos aplicativos.
+Kai-Fu Lee, IA expert
+Outros
+3%
+PERGUNTA:
+Qual é o modelo de negócio atual da startup em que você trabalha? (EST/RU)
+Amostra: 63 respostas.
+Cenário
+GenAI 38
+Mesmo assim, com um cenário de empresas que ainda lutam por investimentos,
+estão em estágio inicial e representam uma disrupção perto dos investimentos
+mais comuns dos Venture Capitals (VCs), algumas startups já começam a despontar
+FOODTECH AGTECH MARTECH LEGALTECH HEALTHTECH
+A foodtech Aravita conquistou
+R$12 milhões de reais em
+2023. A startup brasileira
+utiliza inteligência artificial
+para resolver grandes
+desafios da indústria e
+do varejo de alimentos:
+o desperdício e a ruptura.
+A iniciativa viabiliza novos
+patamares de eficiência
+nas operações de alimentos
+frescos no varejo.
+A Cromai, agtech, captou
+um total de R$ 30 milhões
+de reais até fevereiro de
+2024. A startup oferece
+uma solução para o controle
+de plantas daninhas em
+lavouras. Os diagnósticos
+e a inteligência da Cromai
+permitem ainda o aumento
+da produtividade e da
+sustentabilidade nas
+culturas, por meio de um
+controle mais efetivo de
+plantas invasoras.
+aravita.com
+FONTE:
+Fusões & Aquisições, 2023
+cromai.com
+FONTE:
+Infomoney, 2024
+Dentro do cenário das
+Martechs, a Trakto está em
+vias de realizar uma série A
+por volta de R$ 20 milhões
+ainda neste semestre.
+A empresa consiste num
+editor 100% online que
+permite criar artes para
+os meios digitais e para
+impressão facilmente com
+poucos cliques e sem a
+exigência de conhecimento
+técnico.
+trakto.io
+FONTE:
+Startups.com.br, 2024
+No universo jurídico
+também há uma estrela,
+no caso a Lexter.AI, que
+captou R$16 milhões
+em uma rodada de seed
+em abril último. A empresa
+desenvolveu uma plataforma
+de análise de documentos
+jurídicos utilizando modelos
+de inteligência artificial,
+combinando algoritmos
+próprios com plataformas
+avançadas de GenAI.
+E, por fim, há também
+healthtechs com potencial
+de disrupção, como é o caso
+da Huna.AI, que projeta um
+faturamento de meio milhão
+de reais até o final de 2024.
+A startup, nascida em 2022,
+utiliza inteligência artificial
+e análise de dados para
+revolucionar o diagnóstico
+precoce de câncer, com foco
+inicial no câncer de mama.
+huna-ai.com
+FONTE:
+Startupi, 2024
+lexter.ai
+FONTE:
+Exame, 2024
+Cenário
+GenAI
+A GenAI no Brasil representa
+uma possibilidade gigante de
+um grande salto exponencial
+no país, mas é preciso
+ampliar e aprofundar a
+discussão sobre o assunto
+que existe hoje
+A tecnologia já foi abraçada por uma parcela da população
+que, apesar de inúmeras dúvidas, enxerga com um viés
+mais positivo que negativo.
+Quem pode mudar o ponteiro do Brasil de verdade são as
+startups que estão criando disrupção local, remando contra
+esse cenário de incertezas e ajudando a tornar o assunto
+mais aberto, pelo menos no ambiente corporativo.
+Cenário
+GenAI Imagem criada com Gemini
+40
+CAPÍTULO 2
+Mapa de dores e desafios
+Apesar dos desafios, o Brasil
+é a principal referência e liderança
+em startups na América Latina
+Vê-se que o cenário brasileiro apresenta um cenário de investimentos
+aquém do ideal e uma série de gargalos, mas há esperança.
+ESPAÇO PARA PROTAGONISMO IMPLEMENTAÇÃO DE SOLUÇÕES
+Com o aporte de mais recursos
+e um ecossistema mais sólido,
+há grande espaço para um
+protagonismo brasileiro junto
+às lideranças mundiais.
+Para isso, precisamos aprofundar nas dores e
+lacunas que travam o crescimento das startups
+brasileiras de IA Generativa e olhar para as soluções
+que devem ser implementadas com consistência
+para destravar esse potencial.
+Imagem criada com Gemini
+Mapa de dores e demandas 42
+No estudo realizado em 2022, as startups
+de IA compartilharam 8 principais desafios
+que freavam seu desenvolvimento ou o
+avanço do tema no Brasil.
+Falta de acesso
+à educação
+tecnológica
+Escassez de
+profissionais
+qualificados
+Fuga de talentos
+Viés e falta de
+Diversidade,
+Equidade &
+Inclusão (DE&I)
+Dados sujos
+Falta de match
+comercial
+Reputação
+do termo IA
+manchada
+Cenário
+regulatório
+indefinido
+Mapa de dores e demandas 43
+Neste novo estudo que analisa as startups de
+IA Generativa, abordamos 11 desafios, com
+algumas das questões destacadas no estudo
+anterior sendo afetadas de alguma forma
+Falta de acesso
+à educação
+tecnológica
+Escassez de
+profissionais
+qualificados
+Viés e falta de
+Fuga de talentos Novos parâme-
+Diversidade,
+tros para avaliar
+Equidade &
+a inovação
+Inclusão (DE&I)
+Controle e
+privacidade
+de dados
+Criação de
+proposta de valor
+Preocupação
+com o impacto
+da IA Generativa
+Cenário
+regulatório
+indefinido
+Falta de capital
+para inovação
+disruptiva
+Mapa de dores e demandas Desafios potencializados
+Desafios transformados
+Desafios inalterados
+Novos desafios
+Orientação para
+casos de uso
+acionáveis
+44
+Considerando esses desafios das startups
+de IA Generativa, podemos agrupá-las em
+quatro frentes prioritárias
+Regulatória
+Negócio
+Desenvolvimento tecnológico
+responsável e ético.
+Viablidade econômica
+da IA Generativa.
+Mapa de dores e demandas Prontidão da
+sociedade
+Preparação social para lidar
+com as implicações sociais,
+éticas e legais
+Letramento
+Conhecimento, compreensão
+e análise crítica sobre a
+tecnologia
+45
+Regulatório
+Na frente regulatória, o que se vê
+é um futuro incerto.
+DESAFIO
+Cenário regulatório indefinido
+Mapa de dores e demandas Imagem criada com Gemini
+46
+PRIORIDADE: REGULATÓRIO DESAFIO: Cenário regulatório indefinido
+Apesar do novo relatório preliminar para regu-
+lação da IA, o cenário ainda é confuso e não há
+clareza sobre o caminho certo a seguir
+"O potencial positivo da IA
+Generativa é muito grande,
+mas o risco pode estar em
+seu uso - as pessoas podem
+usá-la para o que quiserem.
+Como você avalia e controla
+esse risco? É importante ter
+intervalos, mas acima de
+tudo, monitorá-lo."
+Entrevista com Especialista
+83% DOS RESPONDENTES ACREDITAM QUE PRECISA HAVER ALGUM TIPO DE REGULAMENTAÇÃO
+PARA A IA GENERATIVA. E NUM CENÁRIO QUE A REGULAÇÃO IRÁ ACONTECER DE QUALQUER
+FORMA, HÁ DIVERGÊNCIAS SOBRE QUAL O MELHOR CAMINHO A SEGUIR:
+Acreditam que a regulação
+deve ser feita pelo governo
+por meio de projeto de lei.**
+24%
+16%
+Acreditam que a melhor
+forma é a regulação por
+entidade privada ligada
+às empresas do setor.**
+27%
+Acham que a regulamentação
+de IA no Brasil deveria ser feita
+por uma agência reguladora
+independente.**
+33%
+Outros**
+*PERGUNTA
+Na sua opinião, uma regulação na inteligência artificial
+nesse momento é importante para o desenvolvimento
+da categoria no Brasil? (EST/RU)| Base: 63 respostas.
+**PERGUNTA
+E ainda na sua opinião, qual deve ser o
+principal caminho de uma regulação da
+IA no Brasil?(EST/RU) | Base: 63 respostas.
+Mapa de dores e demandas MUITOS FUNDADORES PERMANECEM
+DESINFORMADOS SOBRE A
+REGULAMENTAÇÃO RELEVANTE
+14%
+dos respondentes disseram estar
+bastante cientes do conteúdo dos
+projetos atuais de lei em discussão.
+Óbvio que há uma melhora em
+relação a pesquisa de 2022, cujo
+percentual para a mesma pergunta
+era de 4%, mas dá para ver que o
+caminho ainda é longo.
+PERGUNTA
+O quanto você conhece sobre os projetos
+de lei relacionados à regulação de IA no
+Brasil? (EST/RU) | Base: 63 respostas.
+47
+Negócio
+Quando se examina o aspecto de
+negócio, a GenAI não encontrou
+seu 'product market fit'
+DESAFIOS
+Novos parâmetros para avaliar a inovação
+Orientação para casos de uso acionáveis
+Falta de capital para inovação disruptiva
+Criação de produtos de valor
+Mapa de dores e demandas Imagem criada com Gemini
+48
+PRIORIDADE: NEGÓCIO
+A maioria das empresas
+são formadas por pessoas
+com alta capacidade
+técnica, mas não possuem
+a mesma capacidade para
+transformar seus modelos
+em produtos comerciais
+Nessa dificuldade, surgem
+dores e desafios bem
+específicos para fazer
+os negócios crescerem
+e prosperarem.
+Mapa de dores e demandas "Há muita gente apaixonada pelos
+produtos, mas também precisa de uma
+visão de negócio. É preciso entender o
+mercado, porque uma solução pode ser
+incrível, mas se não atender o mercado,
+não vai adiantar."
+Entrevista com Founder, Alumni
+Diante desse cenário, notou-se que
+22% das startups entrevistadas
+afirmaram que ainda não é possível
+quantificar e mensurar os resultados
+do uso de IA Generativa, assim
+como 35% esperam maior facili-
+tação para rodadas de financiamento
+e investimento, mesmo com os
+Venture Capitals (VCs) tendo investido
+apenas 0,1% do PIB da América
+Latina em 2022.
+Há também uma parcela das empresas que querem se inspirar e entender como
+podem usar a GenAI de maneiras inovadoras. Embora, no estudo, tenham sido
+mapeados mais de 60 diferentes casos de uso com dados de terceiros em
+diferentes setores, a maioria ainda usa para ações mais simples e convencionais.
+OS TOP 3 CASOS DE USO DE IA GENERATIVA PELAS STARTUPS MAPEADOS
+NO ESTUDO FORAM
+62% Resumo de informações
+de várias fontes
+57%
+54%
+Criar uma lista de fontes de dados
+a partir de uma interação anterior
+Criar uma recomendação para
+atividades de acompanhamento
+Quando se aprofunda o olhar em cada uma das demandas específicas,
+percebe-se com maior clareza alguns dos porquês da GenAI ainda não ter
+encontrado seu fit com o mercado.
+PERGUNTA
+Quais são os principais casos de uso de GenAI na sua startup? (EST/RM) Base: 63 respostas.
+49
+PRIORIDADE: NEGÓCIO DESAFIO: Novos parâmetros para avaliar a inovação
+Como GenAI é uma
+novidade, as empresas
+não conseguem en-
+contrar ou ter certeza
+de quais métricas
+alavancam os negócios,
+tornando difícil justificar
+a adoção massiva
+"Tem poucas tecnologias que tem um
+potencial tão grande de conseguir trazer
+mudanças sistêmicas como GenAI."
+Entrevista com Founder, Não-Alumni
+63%
+das startups entrevistadas ainda não têm uma
+estratégia centralizada de curto e longo prazo
+para desenvolver o uso da IA Generativa na
+empresa e no produto/serviço.
+PERGUNTA
+A startup tem uma estratégia de curto e longo prazo
+centralizada para desenvolver o uso de IA Generativa na
+empresa e no produto/serviço (EST/RU) | Base: 63 respostas.
+"Em questão de métrica e mensuração
+de modelos ainda estamos engatinhando
+muito. Tem algumas melhores práticas
+que as empresas de tecnologia sugerem,
+mas, a verdade é que não tem ainda um
+set de métricas ultra confiável, elas são
+muito limitadas ainda.”
+Entrevista com Founder, Não-Alumni
+27%
+das startups entrevistadas afirmam que
+o uso da IA generativa produz resultados
+internos e retornos financeiros na startup.
+PERGUNTA
+Atualmente, o uso de IA Generativa está gerando
+resultados para a startup? (EST/RM) | Base: 63 respostas.
+50
+PRIORIDADE: NEGÓCIO DESAFIO: Falta de capital para inovação disruptiva
+Devido aos desafios em
+atrair capital de risco, o
+Brasil acaba direcionando
+os investimentos dispo-
+níveis para negócios com
+horizontes de retorno
+de curto prazo, limitando
+o espaço para iniciativas
+mais disruptivas.
+UM QUARTO DAS STARTUPS NÃO TÊM ORÇAMENTO ESPECÍFICO
+PARA USO E DESENVOLVIMENTO DE IA GENERATIVA E:
+46%
+35%
+acreditam que a maior
+dificuldade está em angariar
+investimento público no
+desenvolvimento de IA;
+esperam maior facilitação
+para funding e rodadas de
+investimento;
+Talvez a maior das dores elencadas neste
+projeto, para as startups, ainda em estágio
+inicial e buscando ajudar o Brasil a realizar
+grandes transformações, há uma grande
+necessidade por maior investimento.
+PERGUNTA
+Pensando somente na startup em que você trabalha,
+o que pode facilitar mais o desenvolvimento de IA
+Generativa? (EST/RM) | Base: 63 respostas.
+Mapa de dores e demandas "Conscientização de que IA é promis-
+sora é uma mudança paradigmática
+geracional. Ela é transformacional
+ao longo de décadas. Não é corrida
+de tiro, é uma maratona.”
+Entrevista com Founder, Não-Alumni
+25%
+das startups não têm
+orçamento específico para
+uso e desenvolvimento de
+IA Generativa.
+PERGUNTA
+E a startup conta com um orçamento espe-
+cífico para esse uso e desenvolvimento de
+IA Generativa? (EST/RU) | Base: 63 respostas.
+51
+PRIORIDADE: NEGÓCIO DESAFIO: Orientação para casos de uso acionáveis
+A maioria das empresas ainda não tem
+uma utilização difundida da GenAI por não
+saberem como transformá-la em processo
+que traga soluções inovadoras no futuro
+"Como é uma tecnologia muito
+nova, nada vai ser perfeito de
+cara. Testar e experimentar é
+muito importante."
+Entrevista com Founder,
+Não-Alumni
+33%dos entrevistados acreditam
+que o apoio das tech companies
+na transformação de modelos de
+IA Generativa em produtos com
+maior aceitação comercial poderia
+facilitar o desenvolvimento
+da GenAI na sua startup.
+O QUE SE NOTA, NA VERDADE, É UMA DIFICULDADE DE IMAGINAR NOVOS USOS DE CASO COM A TECNOLOGIA EM
+SEUS NEGÓCIOS. QUANDO COMPARADOS OS DADOS DA PESQUISA QUANTITATIVA COM AS ENTREVISTAS QUALITATIVAS
+COM FUNDADORES, ENCONTROU-SE TRÊS GRANDES GRUPOS DE CASOS DE USO NO MOMENTO:
+PESQUISA E SISTEMATIZAÇÃO
+62% 57% 46% 36% COGNITIVO
+54% 40% Encontrar informações complexas de diversos assuntos
+em várias fontes diferentes e sintetizar as descobertas
+Consultar informações para obter respostas
+de uma fonte de dados interna
+Localizar com eficácia os documentos mais
+relevantes e resumir seu conteúdo
+Encontrar informações de em site de forma eficaz por meio
+de prompts multimodais e consultas por conversação
+Recomendar melhores ações personalizadas de
+produto/conteúdo/anexo a partir de uma base
+Atender com eficácia solicitações de informações
+e fornecimento de serviços para clientes
+PRODUTIVIDADE
+52% 51%
+49% 46%
+33% 27%
+PERGUNTA
+Quais são os principais casos de uso de GenAI na sua startup? (EST/RM) | Base: 63 respostas.
+Ajudar na automatização de coleta de informações e formular
+recomendações de processos comerciais recorrentes
+Completar e aprimorar códigos para tornar
+a equipe mais eficiente e eficaz
+Capacitar as equipes de criação a criar imagens e conteúdo
+criativo sob medida para campanhas e conteúdo editorial
+Escrever novas documentações com base no resumo
+de outros documentos e em códigos de software
+Interpretar policies/documentos regulatórios para identificar
+possíveis violações relativas a procedimentos operacionais
+Localizar com eficiência listagens de produtos/
+conteúdo mais relevantes em uma base
+Mapa de dores e demandas 52
+PRIORIDADE: NEGÓCIO DESAFIO: Criação de proposta de valor
+Apesar do potencial exponencial da
+GenAI, ainda é desafiador para as
+startups a habilidade de estruturar seu
+modelo de negócio usando a tecnologia
+De acordo com o relatório Potencial Econômico da IA
+Generativa da McKinsey, as empresas têm o potencial de
+ver um aumento de 30-45% na produtividade e melhora
+das experiências do cliente usando IA generativa.
+"O difícil não está na IA Generativa,
+mas em entender que o problema do
+cliente é facilitar o problema do cliente
+com o menor esforço possível."
+Entrevista com Founder, Alumni
+"Nessa frente, precisamos ser o mais híbrido
+que conseguirmos. Isso significa não ser só um
+especialista em AI, mas sim do seu mercado.
+Entender de business, não só de tech. Isso é o
+principal para não afundar."
+Entrevista com Founder, Alumni
+Mapa de dores e demandas 70%
+dos CEOs esperam que a IA Generativa
+mude significativamente a forma como
+sua empresa cria, entrega e captura
+valor nos próximos três anos. Em outras
+palavras, há vontade, mas ainda não se
+sabe como.
+FONTE:
+27º levantamento Global de CEOs,
+PwC, janeiro/2024.
+53
+Prontidão da
+sociedade
+Preocupação com o uso
+responsável da GenAI.
+DESAFIOS
+Controle e privacidade de dados
+Preocupação com o impacto da IA Generativa
+Mapa de dores e demandas Imagem criada com Gemini
+54
+PRIORIDADE: PRONTIDÃO DA SOCIEDADE
+O otimismo é proporcional à preocupação
+com o uso responsável da GenIA: dados e
+empregabilidade são os receios do brasileiro
+É PRECISO TRAZER UMA PAUTA MAIS POSITIVA PARA
+A GENAI NA SOCIEDADE E, PARA ISSO, A EDUCAÇÃO
+E A CONSCIENTIZAÇÃO DO MERCADO SÃO GRANDES
+DESAFIOS PARA O FUTURO DA GENAI NO BRASIL
+STARTUP 20
+As startups são fundamentais para a conversa sobre IA.
+O time do G20 para startups está discutindo atualmente
+três iniciativas principais para o ecossistema:
+1 ESG
+2 Regulação do investimento anjo
+3 Melhores práticas para regulação da IA
++ de 40%
+dos entrevistados no estudo quantitativo esperam uma
+conscientização do mercado e da sociedade sobre como
+usar a GenIA com responsabilidade.
+É interessante notar que, mesmo com a
+preocupação sobre o assunto em voga,
+os brasileiros já estão usando a tecnologia
+e possuem ela em alta conta:
+41% dos brasileiros acreditam que a
+inteligência artificial aumentou a produtividade
+no trabalho.
+Quando se aprofunda o olhar em cada um dos
+desafios específicos, dá para entender em que
+ponto ter uma sociedade mais preparada para
+lidar com GenAI traz ganhos para todo mundo.
+PERGUNTA
+Agora pensando no cenário de desenvolvimento de IA Generativa no Brasil
+como um todo, o que é mais importante para o futuro da IA Generativa?
+(EST/RM) | Base 63 respostas.
+FONTE:
+Atlantico Digital Transformation Report 2023.
+Mapa de dores e demandas 55
+PRIORIDADE: PRONTIDÃO DA SOCIEDADE DESAFIO: Controle e privacidade de dados
+Com a GenAI, o
+desafio dos dados
+evoluiu e as pessoas
+passaram a se
+preocupar mais
+com as informações
+que geram
+56%
+dos brasileiros confiam que
+as empresas que usam IA vão
+proteger seus dados pessoais.
+"Estamos tateando entre o ser
+ousado e conservador ao mesmo
+tempo. Aprender a gerenciar o risco
+com consciência."
+Entrevista com Founder, Não-Alumni
+FONTE:
+“Global Views on AI 2023”, Ipsos, 2023.
+E PROTEGER DADOS NÃO É ALGO BOM APENAS PARA OS
+USUÁRIOS. HOJE JÁ É ALGO ESSENCIAL PARA ATRAÇÃO DE
+INVESTIMENTOS E APRESENTA RETORNO PARA AS EMPRESAS.
+As startups precisam
+abordar essa questão
+desde o início para gerar
+mais confiança, apoio
+e uso das soluções.
+Segundo dados do Data Privacy Benchmark Study, da Cisco,
+2023, o retorno sobre os investimentos em proteção de dados e
+privacidade é de 1,8x nas empresas globais e 2,8x nas brasileiras.
+FONTE:
+Data Privacy Benchmark Study, Cisco, 2023.
+Mapa de dores e demandas 60%
+confia em empresas que usam
+Inteligência Artificial tanto quanto
+confia em outras empresas.
+87%
+dos entrevistados globais consideram
+a segurança - detectando fraudes,
+riscos de segurança e outras atividades
+criminosas e melhorando a resposta a
+ameaças - como uma aplicação muito
+ou um tanto importante para a IA.
+FONTE:
+Our Life with AI, Google and IPSOS, 2024.
+56
+PRIORIDADE: PRONTIDÃO DA SOCIEDADE DESAFIO: Preocupação com o impacto da IA Generativa
+Ainda que incerto, todos os caminhos apontam
+para o empoderamento humano decorrente de
+um uso consciente da tecnologia
+"Se GenAI vai roubar emprego, eu não
+sei. Mas GenAI vai assumir sim grande
+parcela do que o ser humano faz. E como
+consequência, vamos ganhar muita
+eficiência enquanto sociedade.”
+Entrevista com Founder, Não-Alumni
+51%
+dos brasileiros concordam que
+produtos e serviços que usam
+IA os deixam apreensivos.
+POR OUTRO LADO:
+66%
+concordam que os produtos
+e serviços que usam IA os
+deixam animados.
+PERCEPÇÕES DE QUE AI VAI MELHORAR
+Economia
+de tempo
+Opções de
+entretenimento
+Minha saúde
+Meu emprego
+Economia
+no meu país
+Mercado
+de trabalho
+67%
+64%
+54%
+51%
+55%
+55%
+51%
+49%
+50%
+40%
+FONTE:
+Latin America Digital Transformation Report, Atlantico, 2023.
+80%
+70%
+60%
+FONTE:
+"Global Views on AI 2023”, Ipsos, 2023.
+30%
+39%
+37%
+34%
+32%
+20%
+10% 0%
+10% 20% 30% 40% 50% 60% 70% 80%
+Brasil Média Global
+Mapa de dores e demandas 57
+Letramento
+Conhecimento, compreensão
+e análise crítica.
+DESAFIOS
+Falta de acesso à educação tecnológica
+Escassez de profissionais qualificados
+Fuga de talentos
+Viés e falta de Diversidade e Inclusão (D&I)
+Mapa de dores e demandas Imagem criada com Gemini
+58
+PRIORIDADE: LETRAMENTO
+Apesar de ter mais de 500 mil
+pesquisadores STEM, apenas 1% dos
+pesquisadores latino-americanos
+trabalha em startups
+Há um imenso gap de talentos, conhecimento, compreensão e análise crítica no Brasil
+quando se aborda o tema das STEM (Science, Technology, Engineering and Mathematics).
+Seja pela falta de acesso à educação tecnológica, escassez de profissionais qualificados,
+fuga de talentos ou viés e falta de Diversidade, Equidade e Inclusão, há pouca conversa
+entre academias e startups, assim como faltam profissionais de qualidade para
+preencher diversas vagas de tecnologia nos mais diversos setores.
+FONTE:
+Deep Tech New Wave, IDB, 2023.
+O USO DA IA GENERATIVA ESTÁ PRESENTE EM TODOS OS NÍVEIS
+HIERÁRQUICOS, COM OS NÍVEIS MAIS ALTOS APRESENTANDO
+NÚMEROS AINDA MAIORES
+73% Fundador/Presidente/CEO
+63% C-Level
+57% Analista
+52% Diretoria
+51% Gerência
+PERGUNTA
+Hoje, as ferramentas de IA Generativa
+estão sendo utilizadas por quais
+níveis hierárquicos dentro da startup?
+(EST/RM) | Base: 63 respostas.
+Mapa de dores e demandas "AI, AIN'T I A WOMAN"
+Análise da pesquisadora Joy Buolamwini sobre como
+a IA interpreta mal mulheres negras reconhecidas
+MICHELLE OBAMA OPRAH WINFREY
+“A tecnologia está evoluindo
+tanto que quem está ditando
+o modelo está aprendendo
+com quem o está usando.”
+Entrevista com Especialista
+A pesquisadora realizou um levantamento em diversas plataformas
+de IA Generativa e destacou como muitas delas não conseguiram
+assimilar mulheres negras notáveis, destacando a importância de
+melhoria dos modelos na perspectiva de Diversidade e Inclusão.
+43%
+afirma que é essencial o
+desenvolvimento de soft skills
+(linguagem, comunicação, relaciona-
+mento) para desenvolvedores de
+IA Generativa no Brasil.
+PERGUNTA
+Pensando somente na startup em que você trabalha,
+o que pode facilitar mais o desenvolvimento de IA
+Generativa? (EST/RM) | Base: 63 respostas.
+89%
+(9 em cada 10)
+pessoas acreditam que a IA mudará
+alguns ou a maioria dos empregos ou
+indústrias nos próximos cinco anos,
+dessas pessoas, 52% sentem que a
+mudança provavelmente será positiva.
+FONTE:
+Our Life with AI, Google and IPSOS, 2024.
+59
+PRIORIDADE: LETRAMENTO DESAFIO: Falta de acesso à educação tecnológica
+O sistema de educação
+ainda baseia-se em uma
+grade tradicional que não
+reflete o momento societal,
+tampouco as novas
+demandas educacionais
+"A academia no Brasil é muito distante
+do mercado, tem que mudar a estrutura
+das universidades, é muito difícil fazer
+parcerias público-privada. Tudo isso faz
+parte de uma política de IA. Quais são as
+barreiras e gargalos? Um deles é esse:
+entender como facilitar a relação das
+instituições públicas com o setor privado.”
+Entrevista com Especialista
+59%
+dos entrevistados, a educação e
+conscientização do mercado sobre
+o que é IA Generativa e como
+utilizá-la de maneira responsável
+pode ajudar no desenvolvimento
+da tecnologia na sua startup, mas
+isso ainda é insuficiente.
+PERGUNTA
+Pensando somente na startup em que
+você trabalha, o que pode facilitar mais
+o desenvolvimento de GenAI?
+(EST/RM) | Amostra: 63 respondentes.
+"Hoje a gente não tem um conjunto de
+disciplinas nas instituições escolares
+que enfatiza inovação tecnológica para a
+transição econômica para digitalização.”
+Entrevista com Founder, Não-Alumni
+EVIDÊNCIAS APRESENTADAS PELAS
+STARTUPS ENTREVISTADAS:
+É preciso ir além da educação do
+mercado sobre o assunto e começar
+a apontar mudanças sistêmicas
+e transformacionais que preparem
+todos para o uso de IA no dia a dia.
+APRIMORAMENTO
+Há poucos cursos estruturados e
+os profissionais precisam aprender
+ao longo do caminho
+REQUALIFICAÇÃO
+A falta de acesso equitativo
+ao conhecimento sobre GenAI
+QUALIFICAÇÃO ABRANGENTE
+A falta de qualificações vai desde
+a base da pirâmide profissional
+até os CEOs
+60
+PRIORIDADE: LETRAMENTO DESAFIO: Escassez de profissionais qualificados
+As raízes são históricas, mas questões
+sócio-econômicas freiam a formação de
+profissionais nativos que fortaleçam a atuação
+brasileira perante o mercado de GenAI.
+"Os modelos em geral são construídos
+em inglês. A acurácia maior é em inglês.
+Em cima disso, temos 1% de brasileiros
+fluentes na língua, então estaremos
+sempre em defasagem.”
+Entrevista com Founder, Não-Alumni
+AS MUDANÇAS, SEGUNDO OS ENTREVISTADOS, PRECISAM
+SER COMPLETAS. HÁ UMA NECESSIDADE DE UMA REINVENÇÃO
+DA EDUCAÇÃO BRASILEIRA:
+37%
+dos entrevistados acreditam
+que uma evolução no ensino
+básico para desenvolver
+raciocínio lógico dos brasileiros
+é fundamental para o
+desenvolvimento da GenAI.
+38%
+creem na evolução
+no ensino superior
+para melhor preparar
+profissionais de IA
+Generativa no Brasil.
+PERGUNTA
+Pensando somente na startup em que você trabalha, o que pode facilitar
+mais o desenvolvimento de IA Generativa? (EST/RM) |Amostra: 63 respostas.
+A QUESTÃO É QUE HÁ UMA GRANDE ADVERSIDADE PARA A COMPETITIVIDADE
+BRASILEIRA: O DESAFIO EDUCACIONAL JÁ COMEÇA NA BASE DA FORMAÇÃO ESTUDANTIL,
+COM UMA PARCELA MUITO PEQUENA DA POPULAÇÃO PROFICIENTE EM ALFABETIZAÇÃO.
+Níveis de alfabetização no Brasil:
+Analfabeto
+8%
+Rudimentar
+22%
+Intermediário
+34%
+Elementar
+25%
+Proficiente
+12%
+30% não conseguem
+nem ler uma frase.
+Apenas 12% conseguem
+compreender um livro.
+FONTE:
+Latin America Digital Transformation
+Report, Atlantico, 2023.
+Mapa de dores e demandas 61
+PRIORIDADE: LETRAMENTO DESAFIO: Fuga de talentos
+Na pesquisa anterior isso já tinha sido
+destacado e agora foi algo visto como
+intensificado: os profissionais brasileiros
+são requisitados para trabalhar fora do
+Brasil, seja de forma remota ou não.
+A bem da verdade, o contexto brasileiro
+não é favorável para a evolução dos
+nossos profissionais, e a disputa com
+outros mercados pode ser injusta, tanto
+pelos salários quanto pelos ambientes.
+"O Brasil peca em investimento governamental.
+Tenho colegas empreendedores que foram para a
+China e lá conseguiram apoio para desenvolverem
+seus projetos, o que é inviável aqui.”
+Entrevista com Founder, Alumni
+Mapa de dores e demandas 46%
+das startups entrevistadas afirmam
+que a falta de investimento público
+é algo que impacta negativamente
+no futuro da IA Generativa no Brasil.
+PERGUNTA
+E o que é mais difícil para o futuro da IA
+Generativa no Brasil? (EST/RM)
+Base: 63 respostas
+ENTRE JANEIRO E DEZEMBRO
+DE 2022, O BRASIL TEVE UM
+RECORDE DE FUGA DE TALENTOS
+A fuga de cérebros só aumenta
+no país. Em levantamento
+da Fragomen, maior e mais
+antiga empresa de imigração
+do mundo, entre janeiro e
+dezembro de 2022, o Brasil teve
+um recorde de fuga de talentos:
+FONTE:
+Levantamento da Fragomen, maior e mais
+antiga empresa de imigração do mundo.
+200%
+de aumento de talentos se
+mudando para Portugal.
+114%
+de aumento de talentos se
+mudando para os EUA.
+544%
+de aumento de talentos se
+mudando para a Austrália e
+Nova Zelândia.
+62 62
+PRIORIDADE: LETRAMENTO DESAFIO: Viés e falta de Diversidade e Inclusão
+A cena de GenAI brasileira
+ainda carece de diversidade,
+refletindo o espectro padrão
+das startups no Brasil
+ENTRE AS STARTUPS ENTREVISTADAS,
+QUANDO CONSIDERAMOS OS CARGOS
+DE LIDERANÇA, A DIVERSIDADE
+AINDA CONTINUA POUCO PRESENTE
+21% têm
+pessoas
+negras
+9% têm
+pessoas
+LGBTQIAPN+
+PERGUNTA
+Vou fazer uma pergunta exatamente
+como é feita pelo IBGE para a
+classificação da população brasileira.
+A sua cor ou raça é: EST/RU
+Base: 63 respostas.
+PERGUNTA
+Com qual orientação sexual
+você se identifica? EST/RU
+Base: 63 respostas.
+10% têm
+mulheres cis
+PERGUNTA
+Com qual gênero você se identifica?
+EST/RU | Base: 63 respostas.
+"Precisamos olhar além do eixo RJ-SP.
+Existe muita inovação e polos acadêmicos
+em outras regiões, e isso pode fortalecer
+nossa posição global."
+"Infelizmente, quando eu vou nos
+ecossistemas de inovação é claro que
+quem está ali é só a elite, pessoas que
+vieram das melhores universidades, que já
+tem uma base financeira melhor. É muito
+difícil acessar esses espaços para quem
+não vem de um espaço privilegiado."
+Entrevista com Founder, Alumni
+Entrevista com Especialista
+STARTUPS FUNDADAS POR MULHERES ENFRENTAM MAIS BARREIRAS
+Quando se olha as startups fundadas por mulheres, as barreiras são ainda
+maiores, segundo dados da dados da LAVCA (Association for Private Capital
+Investment in Latin America), referente ao primeiro semestre de 2023.
+23%
+da totalidade de rodadas de Venture
+Capitals (VCs) têm a presença de
+startups com lideranças femininas
+(CEOs e fundadores).
+FONTE:
+Dados da LAVCA (Association for Private Capital Investment
+in Latin America), referente ao primeiro semestre de 2023.
+18%
+da totalidade do capital investido em
+startups foi o que restou para startups
+fundadas por mulheres.
+63
+CAPÍTULO
+CAPÍTULO 2
+>
+SEÇÃO
+Nome
+Soluções para as dores
+Se existem necessidades, certamente
+há soluções viáveis no horizonte
+As necessidades são muitas, e certamente se elas existem, também
+há soluções viáveis no horizonte. Para cada desafio, há uma solução
+espelhada que pode ser pensada.
+Regulatório Letramento
+Negócio
+Prontidão da sociedade
+Futuro incerto GenAI não possui 'product market fit'
+Preocupação com o uso
+responsável da GenAI
+Sistema educacional atrasado =
+profissionais defasados
+CENÁRIO REGULATÓRIO INDEFINIDO
+Liderança técnica e ética que amplie
+conhecimento e fomente o diálogo público
+entre todas as partes interessadas.
+NOVOS PARÂMETROS PARA AVALIAR
+A INOVAÇÃO
+Fornecer ferramentas que facilitem a
+adoção de GenAI por empresas em
+diferentes estágios de maturidade.
+CONTROLE E PRIVACIDADE DE DADOS
+Proteger os dados das pessoas que
+estão desenvolvendo e usando o GenAI.
+FALTA DE ACESSO À EDUCAÇÃO TECNOLÓGICA
+Democratizar a produção de conhecimento
+tecnológico.
+PREOCUPAÇÃO COM O IMPACTO DA GENAI
+Criar legitimidade para as verdadeiras
+empresas orientadas por IA.
+ESCASSEZ DE PROFISSIONAIS QUALIFICADOS
+Requalificar e aprimorar as habilidades
+de profissionais de todos os setores.
+ORIENTAÇÃO PARA CASOS DE USO
+ACIONÁVEIS
+Facilitar e orientar as empresas sobre os
+melhores casos de usos de acordo com
+suas necessidades.
+FALTA DE CAPITAL PARA INOVAÇÃO
+DISRUPTIVA
+Incentivar investimentos público e/ou
+privado destinados a atrair financiamento
+para startups startups focadas em GenAI.
+FUGA DE TALENTOS
+Promover um ecossistema de comunidade
+brasileira mais forte com vários atores
+envolvidos.
+DIVERSIDADE, EQUIDADE E INCLUSÃO (DE&I)
+Alfabetização, regulamentação e fiscalização
+de alucinações, desenvolvedores e empresas.
+CRIAÇÃO DE PRODUTOS DE VALOR
+Aumentar a consciência das empresas
+sobre o ecossistema de GenAI.
+Soluções para as dores 65
+PRIORIDADE: REGULATÓRIO
+Desafio: Cenário regulatório incipiente
+O que pode ser feito
+SOLUÇÃO:
+Liderança técnica e ética que amplie
+conhecimento e fomente o diálogo público
+entre todas as partes interessadas
+CURTO PRAZO
+De forma pragmática
+Fomentar uma cultura de compartilhamento
+entre especialistas e organizações dedicadas à
+IA Generativa para que disseminem informações
+fundamentadas para todos. Essa prática não
+só educará, mas também ampliará o debate,
+envolvendo todas as partes interessadas.
+Inspiração
+Fair Labor Association
+A iniciativa foi criada pela Patagonia em
+1996 como uma entidade independente de
+fiscalização e auditoria de fábricas têxteis
+É preciso fomentar uma
+compreensão abrangente da
+IA Generativa, para que não
+haja um cenário que freie seu
+crescimento, nem libere um
+desenvolvimento irresponsável.
+Com inovações incrementais
+Promover um processo participativo
+na elaboração da regulação brasileira,
+engajando uma variedade de órgãos e
+indivíduos, como especialistas técnicos,
+empresas de tecnologia e membros da
+sociedade, juntamente com os legisladores.
+A partir de conversas com o governo e do desenvolvimento
+de iniciativas, como a "No Sweat Initiative", a Patagônia
+desenvolveu essa organização. Será que as Tech Companies
+podem se aproximar ainda mais do governo brasileiro a fim de
+evitar uma regulamentação excessiva, e gerar uma organização
+que audite e fiscalize IA de forma ética e responsável?
+Causando uma disrupção
+Aproveitar o poder da IA como uma
+ferramenta de suporte para análise e
+monitoramento, auxiliando na identificação
+de padrões, tendências e possíveis riscos
+para melhores tomadas de decisões.
+Deve-se estabelecer um ambiente regulatório
+sólido e legítimo para impulsionar a inovação
+no Brasil e isso requer um profundo entendimento
+da tecnologia e suas implicações para orientar
+as melhores direções.
+LONGO PRAZO
+Soluções para as dores 66
+PRIORIDADE: NEGÓCIO
+Desafio: Criação de produtos de valor
+O que pode ser feito
+SOLUÇÃO:
+Aumentar a consciência das empresas
+sobre o ecossistema de IA Generativa
+CURTO PRAZO
+De forma pragmática
+Investir na capacitação e treinamento
+das empresas baseadas em GenAI para
+promover ativamente suas iniciativas
+e produtos.
+Inspiração
+Y Combinator
+Unir investimentos com aceleração dos
+negócios, melhoria dos seus produtos e
+enriquecimento do ecossistema é o jeito
+único da Y Combinator, que ajudou a criar
+muitos dos unicórnios mais célebres.
+Uma atuação conjunta e
+direcionada pelos líderes da
+indústria deve abrir caminhos
+sobre possibilidades da
+IA Generativa.
+Com inovações incrementais
+Criar um diretório abrangente de casos de
+uso para destacar as soluções disponíveis
+no mercado e seus exemplos de aplicação,
+capacitando as startups com um melhor
+entendimento das possibilidades atuais
+e estimulando a inovação.
+Startups necessitam de orientação para desenvolver ofertas
+desejáveis e reconhecidas. Como é possível ampliar iniciativas
+nesse sentido e criar programas específicos para startups que
+incorporam a GenAI em seu modelo de negócio?
+Causando uma disrupção
+Encorajar as startups e outras organizações
+a explorar amplamente as capacidades da
+IA Generativa na criação de novos produtos
+e perspectivas, impulsionando a inovação
+e o desenvolvimento.
+Organizações que desenvolvem os modelos de
+IA Generativa têm o papel crucial de aumentar
+o conhecimento sobre seu ecossistema, enquanto
+empresas que usam a tecnologia necessitam de
+líderes para impulsionar seu crescimento exponencial.
+LONGO PRAZO
+Soluções para as dores 67
+PRIORIDADE: NEGÓCIO
+Desafio: Orientação para casos de uso acionáveis
+O que pode ser feito
+Solução:
+Facilitar e orientar as empresas sobre os melhores
+casos de usos de acordo com suas necessidades
+CURTO PRAZO
+De forma pragmática
+Desenvolver um conjunto de ferramentas
+que ofereça orientação sobre os melhores
+casos de uso atuais e potenciais, levando
+em consideração as necessidades e
+ambições de cada organização.
+Inspiração
+Tornar simples e fácil o
+entendimento de como utilizar
+GenAI em usos de caso concretos
+Quanto mais didático e simples for para
+as pessoas começarem a usar GenAI,
+maior será sua adoção.
+Quanto mais organizados
+e intuitivos forem os casos
+de uso, maior a adoção de
+serviços e produtos de uma
+companhia por parte de
+startups e corporações.
+Com inovações incrementais
+Promover a criação de projetos-piloto
+que permitam que startups de diversas
+categorias testem suas hipóteses e
+validem a viabilidade e o potencial de
+mercado de suas soluções, fomentando
+aprendizado e crescimento.
+Quais são as formas possíveis para tornar o tema GenAI mais
+acessível e inserido na cultura de forma positiva?
+As empresas que estão desenvolvendo soluções
+com a nova tecnologia precisam ser guiadas sobre
+os melhores casos de uso para maximizarem
+o potencial do impacto das suas soluções.
+LONGO PRAZO
+Causando uma disrupção
+Promover colaboração entre instituições,
+incluindo startups, empresas e
+universidades, para desenvolver novos casos
+de uso com a IA Generativa. Essa abordagem
+multidisciplinar pode impulsionar a inovação,
+criando soluções impactantes e criativas.
+Soluções para as dores 68
+PRIORIDADE: NEGÓCIO
+Desafio: Falta de capital para inovação disruptiva
+O que pode ser feito
+SOLUÇÃO:
+Incentivar investimentos público e/ou
+privado destinados a atrair financiamento
+para startups startups focadas em GenAI.
+CURTO PRAZO
+De forma pragmática
+Educar e conscientizar os investidores
+sobre os benefícios e a importância
+de apoiar e investir em inovações de
+longo prazo. Assim, podemos inspirar
+investimentos mais estratégicos e sus-
+tentáveis que impulsionam o progresso
+e o desenvolvimento duradouro.
+Inspiração
+Startup Estonia
+É possível aprender com governos de
+países que não possuíam nenhuma
+tradição em tecnologia, como é o
+caso da Estônia com suas diversas
+iniciativas pró-startups.
+Visão de longo prazo e
+maiores incentivos são a
+chave para alavancar um
+ecossistema que já se
+destaca mesmo com pouco.
+Com inovações incrementais
+Promover a criação de fundos de
+co-investimento, nos quais o governo,
+instituições financeiras e investidores
+privados se unem para compartilhar riscos
+e ampliar a capacidade de investimento.
+Há um potencial imenso de apostar no crescimento de Deep
+Tech brasileira, mas é preciso criar um ambiente mais favorável,
+que demanda uma estratégia e investimentos públicos. Como
+fazer o mundo inteiro conhecer e reconhecer o Brasil como um
+polo de inovação em GenAI?
+Causando uma disrupção
+Colaborar na criação de alicerces legais
+e outros dispositivos de segurança para
+incentivar aceleradoras e investidores de
+capital de risco a apostarem em empresas
+de tecnologia avançada.
+Apesar dos poucos incentivos, o Brasil já
+tem grandes exemplos de unicórnios. Para
+um ambiente mais propício é importante
+promover um pouco mais de segurança para
+investimentos de alto risco.
+LONGO PRAZO
+Soluções para as dores 69
+PRIORIDADE: NEGÓCIO
+Desafio: Novos parâmetros para avaliar a inovação
+O que pode ser feito
+SOLUÇÃO:
+Fornecer ferramentas que facilitem a adoção de GenAI
+por empresas em diferentes estágios de maturidade
+CURTO PRAZO
+De forma pragmática
+Expandir o conhecimento das empresas sobre
+ferramentas acessíveis que possibilitem
+a rápida adoção da tecnologia em seus
+processos existentes, facilitando a integração
+eficiente de soluções tecnológicas.
+Inspiração
+AI Fair Lac
+A fAIr LAC é uma parceria entre
+os setores público e privado,
+a sociedade civil e instituições
+acadêmicas, projetada para influenciar
+políticas públicas e o ecossistema
+empreendedor na promoção do uso
+responsável e ético da IA.
+As empresas precisam ser
+orientadas sobre as métricas
+relevantes no uso da IA
+Generativa para conseguirem
+medir seu progresso.
+Com inovações incrementais
+Estabelecer um repositório de
+parâmetros e KPIs que sirvam como
+referência para medir os avanços das
+empresas que utilizam a IA Generativa
+Partindo de parâmetros já bem estabelecidos e validados com
+parceiros com legitimidade no desenvolvimento de métricas,
+empresas de tecnologia podem fazer com que os índices para uso
+de AI sejam de acordo com os princípios e propósito da marca.
+Causando uma disrupção
+Impulsionar o compartilhamento de
+métricas validadas provenientes da
+utilização da IA Generativa, incentivando
+assim a adoção dessa tecnologia por
+um número ainda maior de empresas.
+Frente às amplas possibilidades de uso da tecnologia,
+para além de guiar a adoção da IA Generativa,
+as empresas precisam de recursos para compreender
+a relevância dos seus produtos e soluções.
+LONGO PRAZO
+Soluções para as dores 70
+PRIORIDADE: PRONTIDÃO DA SOCIEDADE
+Desafio: Controle e privacidade de dados
+O que pode ser feito
+SOLUÇÃO:
+Proteger os dados das pessoas que
+estão desenvolvendo e usando o GenAI
+CURTO PRAZO
+De forma pragmática
+Promover uma educação contínua para
+clientes e consumidores sobre o uso
+das ferramentas disponíveis no mercado
+para proteger seus dados pessoais.
+Inspiração
+Future of Privacy Forum (FPF)
+É um think tank que reúne empresas,
+acadêmicos e defensores privacidade
+para desenvolver e compartilhar soluções
+para os atuais desafios de privacidade e
+proteção de dados.
+O passo central para firmar a
+segurança das pessoas numa
+IA “para o bem” é fazer o uso
+correto dos seus dados.
+Com inovações incrementais
+Adotar tecnologias que garantam a
+privacidade dos usuários, como ferramentas
+de anonimização de dados, criptografia
+e sistemas de controle e acesso.
+As tech companies, governo e instituições acadêmicas podem se
+inspirar nesse tipo de iniciativa, a fim de enriquecer a discussão
+sobre o assunto e promover um debate qualificado sobre o uso de
+dados e novas tecnologias de maneira responsável. Qual a melhor
+forma de endereçar para o grande público tal conhecimento?
+Causando uma disrupção
+Comunicar aos usuários como
+seus dados estão sendo utilizados,
+demonstrando nosso compromisso
+em evitar usos indevidos ou violações
+de privacidade pessoal.
+Numa sociedade conectada, o uso de dados é
+elemento essencial. Mas, é importante ser feito com
+transparência e responsabilidade visando seu uso
+em benefício de melhores soluções para as pessoas.
+LONGO PRAZO
+Soluções para as dores 71
+PRIORIDADE: PRONTIDÃO DA SOCIEDADE
+Desafio: Preocupação com o futuro da IA
+O que pode ser feito
+SOLUÇÃO:
+Criar legitimidade para as verdadeiras
+empresas orientadas por IA
+CURTO PRAZO
+De forma pragmática
+Criar protocolos de avaliação de riscos
+para identificar e reduzir potenciais
+impactos negativos da IA Generativa.
+Inspiração
+B Corp é uma das principais e
+mais confiantes certificações
+mundiais para as empresas
+éticas e sustentáveis
+Frente à discussão sobre o futuro com a GenAI e o receio de
+seus impactos negativos, será que o caminho seria também
+desenvolver uma certificação para privilegiar e certificar
+as empresas que fazem o uso responsável da tecnologia
+para criar melhores produtos para a sociedade?
+É necessário um
+comprometimento com a
+transparência e construção
+de confiança pelos potenciais
+positivos da IA Generativa.
+Com inovações incrementais
+Comunicar e conscientizar as pessoas
+sobre os benefícios e desafios da
+tecnologia, envolvendo-as no debate
+sobre o seu uso e desenvolvimento.
+Os aspectos positivos da nova tecnologia
+devem ser potencializados, bem como os
+negativos devem ser mitigados ao máximo.
+As pessoas precisam confiar no bom potencial
+da IA Generativa para se tornarem confiantes
+e promotoras do seu uso.
+Causando uma disrupção
+Garantir transparência e responsabilidade
+no uso da IA Generativa, promovendo
+uma governança democrática que inclua
+a sociedade nas decisões sobre
+o desenvolvimento dessa tecnologia.
+LONGO PRAZO
+Soluções para as dores 72
+PRIORIDADE: LETRAMENTO
+Desafio: Falta de acesso à educação tecnológica
+O que pode ser feito
+CURTO PRAZO
+SOLUÇÃO:
+Democratizar a produção de conhecimento tecnológico
+De forma pragmática
+Impulsionar iniciativas educacionais
+multissetoriais para atualização
+e aprimoramento das habilidades
+dos profissionais, direcionadas às
+demandas mais urgentes e emergentes.
+Inspiração
+Centro de Excelência de IA da UFG
+O CEIA (Centro de Excelência em
+Inteligência Artificial) da UFG (Universidade
+Federal de Goiás) foi lançado em 2019 com
+foco em desenvolver soluções inovadoras
+de alto impacto, por meio do uso de dados
+e Inteligência Artificial.
+É essencial incentivar mais
+profissionais a entrarem para a
+área de tecnologia. Mais do que
+acesso a conteúdo, formação
+de produção de conhecimento.
+Com inovações incrementais
+Criar uma cultura de desenvolvimento
+profissional contínuo, incentivando os
+profissionais a buscar constantemente
+novas habilidades e certificações, propor-
+cionando-lhes apoio nesse processo.
+A iniciativa de destaca por realizar diversas parcerias com a
+iniciativa privada dos mais variados segmentos, como saúde,
+logística e energia, para criação de diferentes produtos, que
+possuem cerca de 80 milhões de consumidores no país.
+Como, em conjunto, podemos destravar burocracias e crescer
+com mais iniciativas a exemplo dessa?
+Causando uma disrupção
+Promover a atração de talentos de
+diversas áreas para o setor de tecnologia,
+implementando programas de requalificação
+e iniciativas de incentivo.
+A formação de talentos no Brasil ainda é
+dominada por áreas tradicionais, como Direito
+e Administração, em detrimento das novas e
+em expansão. É crucial aumentar os estímulos
+e envolvimento com as STEM no país.
+LONGO PRAZO
+Soluções para as dores 73
+PRIORIDADE: LETRAMENTO
+Desafio: Escassez de profissionais qualificados
+O que pode ser feito
+SOLUÇÃO:
+Requalificar e aprimorar as habilidades
+de profissionais de todos os setores
+CURTO PRAZO
+De forma pragmática
+Impulsionar iniciativas educacionais multi-
+setoriais para atualizar as habilidades dos
+profissionais, focando nas demandas mais
+urgentes e emergentes.
+Inspiração
+Governo de Singapura
+é uma ótima referência, por estar
+implementando um novo currículo escolar
+focado em habilidades do futuro.
+O Brasil precisa de um movimento
+para redesenhar estruturalmente
+a educação brasileira.
+É fundamental uma ação conjunta entre iniciativa privada e
+diferentes esferas dos governos para tornar os estudantes da
+educação básica, de hoje, em pessoas preparadas para liderar
+os cenários de constantes disrupções e saltos tecnológicos.
+Quais são os currículos do futuro que devemos ensinar nas
+instituições de ensino brasileiras?
+Com inovações incrementais
+Formar uma coalizão dedicada a
+investir no desenvolvimento de
+iniciativas educacionais para apoiar
+profissionais interessados em
+ingressar no mercado de tecnologia.
+Causando uma disrupção
+Promover uma abordagem educacional
+pública e de base focada nas habilidades
+do futuro, por meio de uma atuação
+multistakeholder para desenhar e atualizar
+o sistema educacional brasileiro.
+Mais do que ações pontuais e sem unicidade,
+devem ser criadas ações sistêmicas que
+promovam uma revolução na educação com
+foco em desenvolver pensamento crítico e
+criativo, não só operacional.
+LONGO PRAZO
+Soluções para as dores 74
+PRIORIDADE: LETRAMENTO
+Desafio: Fuga de talentos
+O que pode ser feito
+SOLUÇÃO:
+Promover um ecossistema de comunidade
+brasileira mais forte com vários atores envolvidos
+CURTO PRAZO
+De forma pragmática
+É fundamental valorizar os profissionais
+de tecnologia no Brasil, oferecendo
+salários e benefícios justos, oportuni-
+dades de crescimento e um ambiente
+de trabalho positivo.
+Inspiração
+Startup Grind
+A Startup Grind é a maior comunidade global
+para startups, fundadores e inovadores que
+existe
+Mais investimentos em
+Pesquisa e Desenvolvimento
+e valorização dos profissionais
+de tecnologia podem
+impulsionar a permanência
+de talentos brasileiros.
+Com inovações incrementais
+Fortalecer o ambiente de inovação e
+empreendedorismo brasileiro, implementando
+programas de apoio e facilitando a conexão
+entre startups e empresas de tecnologia em
+estágios iniciais.
+Lá, startupeiros de todos os tipos conseguem um espaço
+para trocar e aprender. Foi visto no estudo como há uma
+carência não só na quantidade de trocas sobre GenAI, como
+na qualidade das mesmas.
+Como podemos, cada vez mais, conectar os diferentes atores
+do ecossistema e seus conhecimentos a fim de catalisar e criar
+uma cultura de GenAI rica em discussões e embate de ideias?
+Desenvolver um ecossistema à brasileira,
+com maior conexão entre diferentes pares,
+principalmente academia, aceleradoras e
+startups, incentivando a curiosidade, troca,
+experimentação e promovendo um maior
+contato entre todos.
+Causando uma disrupção
+Aumentar os investimentos públicos e
+privados em Pesquisa e Desenvolvimento
+(P&D), especialmente em iniciativas que
+demandam maior risco devido à sua
+natureza altamente transformadora.
+LONGO PRAZO
+Soluções para as dores 75
+PRIORIDADE: LETRAMENTO
+Desafio: Fuga de talentos
+O que pode ser feito
+Inspiração
+SOLUÇÃO:
+Alfabetização, regulamentação e fiscalização
+de alucinações, desenvolvedores e empresas.
+CURTO PRAZO
+De forma pragmática
+Estabelecer um Pacto da Diversidade
+com metas claras e prazos definidos
+para promover a ampliação da diversidade
+em nossas equipes.
+Reprograma
+É uma iniciativa brasileira que busca
+reduzir a desigualdade de gênero e
+raça na tecnologia.
+Uma IA Generativa repre-
+sentativa e ética só será
+possível com uma verdadeira
+representatividade do que
+é o retrato social do país.
+Com inovações incrementais
+Promover a educação e capacitação de
+pessoas de grupos minorizados, facilitando
+o diálogo direto com profissionais de
+Recursos Humanos da indústria para garantir
+acesso a boas oportunidades de mercado.
+Para ampliar as perspectivas de gênero no setor de tecnologia
+e, assim, reduzir vieses e outras questões complexas da GenAI,
+é preciso incluir pessoas diversas nesse universo.
+Para além de capacitar e desenvolver as habilidades, é
+importante se preocupar em conectar pessoas invisibilizadas
+com as boas oportunidades no mercado de trabalho.
+As startups e demais organizações devem
+se comprometer com esforços para
+contratar talentos mais diversos e ampliar
+as oportunidades para todos, de fato.
+LONGO PRAZO
+Causando uma disrupção
+Incentivar os investidores de capital de
+risco a priorizar uma parte significativa
+de seus investimentos e programas de
+aceleração em startups fundadas por
+mulheres, pessoas negras e outros grupos
+sub-representados.
+Soluções para as dores 76
+INCREMENTAL
+SOLUÇÃO PRAGMÁTICA DISRUPTIVA
+Regulatório
+Futuro incerto
+Liderança técnica e ética que amplie
+conhecimento e fomente o diálogo
+público entre todas as partes
+interessadas.
+Fomentar uma cultura de compartilhamento
+entre especialistas e organizações dedicadas
+à GenAI para que disseminem informações
+fundamentadas para todos. Essa prática não
+só educará, mas também ampliará o debate,
+envolvendo todas as partes interessadas.
+Promover um processo participativo
+na elaboração da regulação brasileira,
+engajando uma variedade de órgãos e
+indivíduos, como especialistas técnicos,
+empresas de tecnologia e membros da
+sociedade, juntamente com os legisladores.
+Aproveitar o poder da IA como uma
+ferramenta de suporte para análise
+e monitoramento, auxiliando na
+identificação de padrões, tendências
+e possíveis riscos para melhores
+tomadas de decisões.
+Negócio
+GenAI não possui
+'product market fit'
+Fornecer ferramentas que facilitem
+a adoção de GenAI por empresas em
+diferentes estágios de maturidade.
+Expandir o conhecimento das empresas sobre
+ferramentas acessíveis que possibilitem
+a rápida adoção da tecnologia em seus
+processos existentes, facilitando a integração
+eficiente de soluções tecnológicas.
+Estabelecer um repositório de
+parâmetros e KPIs que sirvam como
+referência para medir os avanços das
+empresas que utilizam a GenAI.
+Impulsionar o compartilhamento de
+métricas validadas provenientes da
+utilização da GenAI, incentivando assim
+a adoção dessa tecnologia por um
+número ainda maior de empresas.
+Incentivar investimentos público
+e/ou privado destinados a atrair
+financiamento para startups startups
+focadas em GenAI.
+Educar e conscientizar os investidores sobre
+os benefícios e a importância de apoiar
+e investir em inovações de longo prazo.
+Assim, podemos inspirar investimentos mais
+estratégicos e sustentáveis que impulsionam
+o progresso e o desenvolvimento duradouro.
+Promover a criação de fundos de co-
+investimento, nos quais o governo,
+instituições financeiras e investidores
+privados se unem para compartilhar
+riscos e ampliar a capacidade de
+investimento.
+Colaborar na criação de arcabouços legais
+e outros dispositivos de segurança para
+incentivar aceleradoras e investidores de
+capital de risco a apostarem em empresas
+de tecnologia avançada.
+Facilitar e orientar as empresas sobre
+os melhores casos de usos de acordo
+com suas necessidades.
+Desenvolver um conjunto de ferramentas
+que ofereça orientação sobre os melhores
+casos de uso atuais e potenciais, levando
+em consideração as necessidades e
+ambições de cada organização.
+Promover a criação de projetos-piloto
+que permitam que startups de diversas
+categorias testem suas hipóteses e
+validem a viabilidade e o potencial de
+mercado de suas soluções, fomentando
+aprendizado e crescimento.
+Promover colaboração entre instituições,
+incluindo startups, empresas e universidades,
+para desenvolver novos casos de uso com
+a GenAI. Essa abordagem multidisciplinar
+pode impulsionar a inovação, criando soluções
+impactantes e criativas.
+Aumentar a consciência das
+empresas sobre o ecossistema
+de GenAI.
+Investir na capacitação e treinamento das
+empresas baseadas em GenAI para promover
+ativamente suas iniciativas e produtos.
+Criar um diretório abrangente de casos de
+uso para destacar as soluções disponíveis
+no mercado e seus exemplos de aplicação,
+capacitando as startups com um melhor
+entendimento das possibilidades atuais
+e estimulando a inovação.
+Encorajar as startups e outras organizações
+a explorar amplamente as capacidades
+da GenAI na criação de novos produtos e
+perspectivas, impulsionando a inovação
+e o desenvolvimento.
+Soluções para as dores 77
+INCREMENTAL
+SOLUÇÃO PRAGMÁTICA DISRUPTIVA
+Prontidão da
+sociedade
+Preocupação com o uso
+responsável da GenAI
+Criar legitimidade para as verdadeiras
+empresas orientadas por IA.
+Criar protocolos de avaliação de riscos
+para identificar e reduzir potenciais
+impactos negativos da IA Generativa.
+Comunicar e conscientizar as pessoas
+sobre os benefícios e desafios da
+tecnologia, envolvendo-as no debate
+sobre o seu uso e desenvolvimento.
+Garantir transparência e responsabilidade
+no uso da IA Generativa, promovendo
+uma governança democrática que inclua
+a sociedade nas decisões sobre
+o desenvolvimento dessa tecnologia.
+Proteger os dados das pessoas
+que estão desenvolvendo e usando
+o GenAI.
+Promover uma educação contínua para
+clientes e consumidores sobre o uso das
+ferramentas disponíveis no mercado para
+proteger seus dados pessoais.
+Adotar tecnologias que garantam
+a privacidade dos usuários, como
+ferramentas de anonimização de dados,
+criptografia e sistemas de controle
+e acesso.
+Comunicar aos usuários como
+seus dados estão sendo utilizados,
+demonstrando nosso compromisso
+em evitar usos indevidos ou violações
+de privacidade pessoal.
+Letramento
+Sistema educacional
+atrasado = profissionais
+defasados
+Requalificar e aprimorar as habilidades
+de profissionais de todos os setores.
+Impulsionar iniciativas educacionais multi-
+-setoriais para atualizar as habilidades dos
+profissionais, focando nas demandas mais
+urgentes e emergentes.
+Formar uma coalizão dedicada a investir
+no desenvolvimento de iniciativas
+educacionais para apoiar profissionais
+interessados em ingressar no mercado
+de tecnologia.
+Promover uma abordagem educacional
+pública e de base focada nas habilidades
+do futuro, por meio de uma atuação multi
+stakeholder para desenhar e atualizar
+o sistema educacional brasileiro.
+Democratizar a produção de
+conhecimento tecnológico.
+Impulsionar iniciativas educacionais multi-
+-setoriais para atualização e aprimoramento
+das habilidades dos profissionais, dire-
+cionadas às demandas mais urgentes
+e emergentes.
+Criar uma cultura de desenvolvimento
+profissional contínuo, incentivando os
+profissionais a buscar constantemente
+novas habilidades e certificações, propor-
+cionando-lhes apoio nesse processo.
+Promover a atração de talentos
+de diversas áreas para o setor de
+tecnologia, implementando programas de
+requalificação e iniciativas de incentivo.
+Promover um ecossistema de
+comunidade brasileira mais forte
+com vários atores envolvidos.
+É fundamental valorizar os profissionais
+de tecnologia no Brasil, oferecendo salários e
+benefícios justos, oportunidades de crescimento
+e um ambiente de trabalho positivo.
+Fortalecer o ambiente de inovação
+e empreendedorismo brasileiro,
+implementando programas de apoio e
+facilitando a conexão entre startups e
+empresas de tecnologia em estágios iniciais.
+Aumentar os investimentos públicos e
+privados em Pesquisa e Desenvolvimento
+(P&D), especialmente em iniciativas que
+demandam maior risco devido à sua
+natureza altamente transformadora.
+Alfabetização, regulamentação
+e fiscalização de alucinações,
+desenvolvedores e empresas.
+Estabelecer um Pacto da Diversidade
+com metas claras e prazos definidos para
+promover a ampliação da diversidade
+em nossas equipes.
+Promover a educação e capacitação de
+pessoas de grupos minorizados, facilitando
+o diálogo direto com profissionais de
+Recursos Humanos da indústria para garantir
+acesso a boas oportunidades de mercado.
+Incentivar os investidores de capital de risco
+a priorizar uma parte significativa de seus
+investimentos e programas de aceleração
+em startups fundadas por mulheres, pessoas
+negras e outros grupos sub-representados.
+Soluções para as dores 78
+CAPÍTULO 3
+CAPÍTULO
+Recomendações
+>
+SEÇÃO
+Nome
+estratégicas
+Imagem criada com Gemini
+O pedido é simples, apesar
+da resposta não ser:
+o que as startups buscam,
+na verdade, é conexão
+Recomendações estratégicas 80
+"Meu sonho é que o Google consiga
+colocar os times de pesquisa em
+contato com as startups para fazer
+um processo a quatro mãos de
+inovação. Apoio institucional de
+aproximação. A chance de uma startup
+copiar qualquer coisa do Google é
+perto de zero. Por isso, é importante
+alimentar o ecossistema sobre a
+simbiose que já existe entre academia,
+investimento e startups lá fora.”
+"Ter especialistas, seja do Brasil ou
+de fora, que pensaram os modelos e
+consigam estabelecer diálogos com
+a gente faria toda diferença. Pessoas
+que conseguem abrir a caixa preta
+da GenAI e conversar. Já pro longo
+prazo, a ajuda é business. Como eles
+ajudam a fomentar negócios, parcerias
+estratégicas. Não temos características
+de vender junto com eles, mas estar
+com mais força no ecossistema.”
+Entrevista com Founder, Alumni
+"O problema do Brasil [com GenAI]
+não é sobre criatividade; é sobre
+capital disponível.”
+Entrevista com Founder, Alumni Entrevista com Founder, Alumni
+Imagem criada com Gemini
+Recomendações estratégicas 81
+O pedido é simples, apesar da
+resposta não ser: o que as startups
+buscam, na verdade, é conexão
+Essa demanda grande por conexão se
+manifesta, principalmente, de três formas:
+Conexão
+financeira
+Conexão
+intelectual
+Conexão
+social
+Para impulsionar negócios
+Para potencializar pessoas
+Para promover ecossistemas
+Recomendações estratégicas 82
+CONEXÃO FINANCEIRA PARA: Impulsionar negócios
+Quando se fala da conexão financeira para impulsionar negócios, percebe-se como
+as startups precisam de capital para crescer seus negócios, seja via aceleradoras,
+Venture Capitals (VCs) ou investimento de governo. Parceiros dessas empresas
+precisam preparar e criar ferramentas e subsídios para essas empresas crescerem.
+Diversas diretrizes apontadas entre
+as soluções podem ajudar a elucidar
+a demanda por conexão financeira
+PRAGMÁTICA DISRUPTIVA
+INCREMENTAL
+F1 F2 F3 F4  Ampliar o conhecimento das empresas sobre
+ferramentas acessíveis, que permita que adotem
+a tecnologias rapidamente em seus processos
+existentes.
+ Educar e sensibilizar investidores sobre os benefícios
+e importância de apoiar e apostar em inovações de
+longo prazo, não só a de curto prazo com retornos
+mais imediatos.
+ Criar um toolkit que orienta os melhores casos de
+usos atuais e possíveis a partir das necessidades e
+ambições de cada organização.
+ Educar e treinar as empresas baseadas em GenAI
+a divulgarem mais e melhor as suas iniciativas e
+produtos para ampliar o conhecimento das pessoas
+sobre essas soluções disponíveis.
+F5 F6 F7 F8  Criar um repositório de parâmetros e KPIs que
+devem ser usados para metrificar os avanços das
+empresas que usam a IA Generativa.
+ Criação de fundos de co-investimento, em que
+governo, instituições financeiras e investidores
+privados compartilhem riscos para ampliar a
+capacidade de investimentos.
+ Incentivar a criação de projetos-piloto (Test &
+Learn), permitindo que as startups testem suas
+hipóteses e validem a viabilidade e potencial de
+mercado das suas soluções.
+ Levantar um diretório de casos de uso para
+apresentar as soluções e casos de usos disponíveis
+no mercado para ampliar o conhecimento das
+startups sobre as atuais possibilidades.
+F9 F10 F11 F12 F13  Promover o compartilhamento de métricas
+validadas provenientes da utilização da IA
+Generativa para fomentar a adoção dessa
+tecnologia por mais empresas.
+ Co-criar alicerces legais e outros dispositivos de
+segurança para aceleradoras e Venture Capitals
+(VCs) apostarem em Deep Techs com menor
+risco envolvido.
+ Fomentar uma atuação multi-institucional, em
+que startups, empresas e universidades possam
+colaborar no desenvolvimento de novos casos
+de uso com a IA Generativa.
+ Incentivar as startups e demais organizações a
+testarem cada vez mais as possibilidades da IA
+Generativa para criação de novos produtos e
+perspectivas com a tecnologia.
+ Co-criar políticas de investimento público e privado
+em Pesquisa e Desenvolvimento, sobretudo, para
+iniciativas que exigem maior risco por serem sobre
+soluções muito transformacionais.
+Recomendações estratégicas 83
+O futuro da GenAI depende de uma ação multissetorial
+sem precedentes que precisa começar agora para o Brasil
+conseguir dar seu salto exponencial.
+Estratégico
+Financeiro
+F11
+F13
+F10
+F5
+F9
+F12
+F7
+F4
+F6
+F3
+F2
+F8
+F1
+Longo prazo
+Disruptivo
+Médio prazo
+Incremental
+Curto prazo
+Pragmático
+Tático
+Desenvolvimentista Regenerativas
+Recomendações estratégicas 84
+CONEXÃO INTELECTUAL PARA: Potencializar pessoas
+Já a conexão intelectual tem o poder de potencializar pessoas e, por
+consequência, a educação brasileira. Há um gap de talentos que precisa ser
+endereçado com certa urgência, assim como uma necessidade de longo prazo
+de repensar como preparar o Brasil para formar, senão os melhores, profissionais
+bem preparados para lidar com essa nova realidade transformacional.
+Algumas das diretrizes apontadas entre
+as soluções podem ajudar a elucidar a
+demanda por conexão intelectual
+PRAGMÁTICA PRAGMÁTICA
+INCREMENTAL
+I1 I2 I3  Acelerar iniciativas educacionais multissetoriais
+para atualizar as habilidades dos profissionais para
+as demandas mais urgentes e emergentes.
+ Acelerar iniciativas educacionais de ensino superior
+que promovam habilidades do futuro.
+ Valorização de profissionais de tecnologia no Brasil
+com políticas corporativas e governamentais de
+salários e benefícios, oportunidades de crescimento
+e ambiente positivo.
+I4 I5 I6  Criação de uma coalizão para investir no
+desenvolvimento de iniciativas educacionais
+para apoiar futuros profissionais interessados
+em ingressar no mercado de tecnologia.
+ Estabelecer uma cultura de desenvolvimento
+profissional contínuo, onde os profissionais sejam
+sempre apoiados a buscarem novas habilidades
+e certificações.
+ Apoiar a educação e capacitação de pessoas de
+grupos minorizados que promovam trocas com
+Recursos Humanos da indústria para conexão direta
+com as boas oportunidades do mercado.
+I7 I8  Atuação multistakeholder para desenhar uma
+atualização da abordagem educacional brasileira
+pública e de base focada nas habilidades do futuro.
+ Incentivar a atração de talentos de outras áreas
+para o setor de tecnologia por meio de programas
+de requalificação e programas de incentivo.
+Recomendações estratégicas 85
+O futuro da GenAI depende de uma ação multissetorial
+sem precedentes que precisa começar agora para o Brasil
+conseguir dar seu salto exponencial.
+Estratégico
+Financeiro
+Intelectual
+F11
+I9
+F13
+F10
+F5
+I6
+I4
+F9
+F12
+F7
+I3
+F4
+I7
+I5
+F3
+I1
+F6
+F2
+F8
+F1
+I2
+Longo prazo
+Disruptivo
+Médio prazo
+Incremental
+Curto prazo
+Pragmático
+Tático
+Desenvolvimentista Regenerativas
+Recomendações estratégicas 86
+CONEXÃO SOCIAL PARA: Promover o ecossistema
+Por fim, o terceiro espectro da conexão se refere à capacidade de potencializar
+e tornar o ecossistema de GenAI efervescente no país. As startups sentem falta
+de um ambiente rico em discussões e networking entre empresas, academia,
+pensadores e profissionais, com o intuito de manter talentos e criar uma cultura
+próspera para o florescimento da GenAI no país.
+Várias diretrizes apontadas entre
+as soluções podem ajudar a elucidar
+a demanda por conexão social
+PRAGMÁTICA PRAGMÁTICA
+INCREMENTAL
+S1 S2 S3 S4  Educar continuamente clientes e consumidores
+a usarem as ferramentas disponíveis no mercado
+para proteção dos seus dados pessoais.
+ Criar um Pacto da Diversidade com metas e prazo
+para cumprimento da ampliação da diversidade
+entre seus times.
+ Desenvolver protocolos de avaliação de riscos
+para identificar e mitigar potenciais consequências
+negativas da IA Generativa.
+ Pessoas e organizações especializadas em IA
+Generativa devem compartilhar informações
+pertinentes e embasadas para educar e ampliar
+o debate com todas as partes envolvidas.
+S5 S6 S7 S8  Aplicar tecnologias que protejam a privacidade dos
+usuários, como ferramentas de anonimização de
+dados, criptografia e sistemas de controle e acesso.
+ Aprimorar o ambiente de inovação e
+empreendedorismo brasileiro, criando programas
+de apoio e conexão entre startups e empresas de
+tecnologia em estágios mais iniciais.
+ Comunicar e conscientizar as pessoas sobre os
+benefícios e desafios da tecnologia, envolvendo-as
+no debate sobre o seu uso e desenvolvimento.
+ Envolver diversos órgãos e pessoas na criação da
+regulação brasileira, como especialistas técnicos,
+empresas de tecnologia e sociedade, além dos
+próprios legisladores.
+S9 S10 S11 S12  Comunicar para os usuários como os dados estão
+sendo usados para mostrar o comprometimento
+em não promover usos indevidos ou de violação
+da privacidade pessoal.
+ Venture Capitals (VCs) priorizarem parte dos
+investimentos e aceleração em startups fundadas
+por mulheres, pessoas negras e demais grupos
+sub-representados.
+ Criar uma carta de transparência e responsa-
+bilidade no uso da IA Generativa e uma Governança
+democrática que envolva a sociedade nas decisões
+sobre o desenvolvimento da tecnologia.
+ Usar a própria IA como ferramenta para análise
+e monitoramento que ajude a identificar padrões,
+tendências e potenciais riscos.
+Recomendações estratégicas 87
+O futuro da GenAI depende de uma ação multissetorial
+sem precedentes que precisa começar agora para o Brasil
+conseguir dar seu salto exponencial.
+Estratégico
+F11
+S12
+S11
+Financeiro
+Intelectual
+Social
+I9
+F13
+F10
+S10
+I7
+F8
+S9
+Longo prazo
+Disruptivo
+Médio prazo
+Incremental
+F5
+S4
+Curto prazo
+Pragmático
+I6
+S5
+I4
+I5
+F3
+F7
+I1
+S3
+S6 S1 F1
+F4
+S7
+I2
+F9
+F12
+I3
+S2
+F6
+F2
+S8
+Tático
+Desenvolvimentista Regenerativas
+Recomendações estratégicas 88
+CAPÍTULO
+>
+NomeANEXO
+SEÇÃO
+Metodologia e apêndice
+Agradecimento aos parceiros de
+pesquisa envolvidos no projeto
+Plataforma com +38 mil
+startups Latam e inteli-
+gência de mercado e equipe
+especializada para atuar
+da estratégia à execução
+de projetos.
+O Cubo Itaú é uma organização sem
+fins lucrativos que, desde 2015, realiza a
+curadoria de startups em fase de tração e
+com alto potencial de escalabilidade para
+impulsionar os negócios e a economia.
+Fundada em maio de 2017, a ABRIA –
+Associação Brasileira de Inteligência
+Artificial, mapeia iniciativas brasileiras
+no setor de Inteligência Artificial e
+ajuda na formação de mão de obra
+especializada, além de promover a
+troca de informação entre empresas
+nacionais e internacionais.
+A "Associação Brasileira de Internet das Coisas - ABINC", é uma
+organização sem fins lucrativos, cujos objetivos principais são
+incentivar a troca de informações técnicas e gerenciais, fomentar
+a atividade comercial, promover a atividade de pesquisa e
+desenvolvimento e representar os diversos agentes presentes no
+mercado de Internet das Coisas (IoT / M2M), junto às autoridades
+governamentais encarregadas das telecomunicações brasileiras.
+OFUTURO é um hub de inovação
+e futuro sustentável, que apoia
+grandes marcas a gerar impacto
+positivo no mundo, por meio do
+desenvolvimento sustentável.
+A Anjos do Brasil é uma organização
+sem fins lucrativos com o objetivo de
+fomentar o crescimento do investimento
+anjo para o apoio ao empreendedorismo
+de inovação brasileiro.
+90
+DETALHAMENTO
+ALPHA TALKS
+Entrevistas individuais com profissionais especialistas no tema de
+GenAI para mapear as principais oportunidades, demandas, desafios,
+movimentos e soluções do mercado.
+Metodologias
+ENTREVISTAS EM PROFUNDIDADE
+Entrevistas individuais com fundadores de startups expoentes em GenAI para
+compreender sua visão sobre o tema, a trajetória de suas empresas, principais
+obstáculos de crescimento, seus desafios enfrentados, dores, oportunidades
+do mercado e seus níveis de maturidade com relação ao uso de GenAI.
+Alexandre Messina
+CEO @ZAIA
+Founder da Zaia, a primeira Plataforma de
+criação de Agentes IA no code para vendas e
+atendimento ao cliente do Brasil. É engenheiro
+pela PUC-Rio, mestre em Administração pela FGV
+e professor convidado de instituições brasileiras.
+Gean Guilherme
+DIRETOR CRIATIVO @2050
+Fundador do Movimento 2050, produtora audiovisual
+da favela, movimento e estilo de vida. Também é
+estudante de Design na PUC-Rio e pesquisador de
+tecnologias imersivas tridimensionais e audiovisual.
+11
+entrevistas
+com fundadores de startups
+brasileiras GenAI driven,
+sendo eles tanto Alumnis
+Google for Startups, quanto
+não-alumnis;
+1
+entrevista
+com Key Opinion Former
+(KOF) de GenAI sobre a
+perspectiva regulatória;
+2
+entrevistas
+com Venture Capitals
+(VCs) especializados
+no desenvolvimento de
+startups na América Latina.
+Dora Kaufman
+PROFESSORA PHD
+Pesquisadora dos impactos sociais da Inteligência
+Artificial, atuando no Instituto de Estudos
+Avançados (IEA) e do Centro de Pesquisa em Rede
+Digitais Atopos na Escola de Comunicação e Artes
+(ECA), ambos da Universidade de São Paulo (USP).
+Metodologia e apêndice 91
+DETALHAMENTO
+Metodologias
+QUANTITATIVA
+Investigação para trazer um Raio-X do que evoluiu do primeiro trabalho, entendendo os principais movimentos e
+big numbers que nos auxiliarão a compreender a adesão e o nível de maturidade das startups em relação à GenAI,
+além de nos permitir construir um ranking dos principais riscos e oportunidades, pelo olhar de proprietários.
+PERFIL DA AMOSTRA
+GÊNERO ORIENTAÇÃO SEXUAL RAÇA IDADE
+Homens Cis Heterossexual Branca 20­ —30 anos
+81% 90% 78% 11%
+Mulheres Cis Bissexual Parda 31—40 anos
+13% 5% 19% 45%
+Homens Trans Pansexual Preta 41—50 anos
+3% 3% 2% 27%
+Outros Outros Amarela 50+ anos
+3% 2% 1% 16%
+AMOSTRA
+63 respondentes
+MÉDIA DE IDADE:
+41 anos
+Metodologia e apêndice
+DETALHAMENTO
+Metodologias
+5 estudos complementares
+Com o intuito de mapear diferentes aspectos
+e explorar com riqueza todo o cenário de
+I.A. no Brasil, usamos um mix de pesquisas
+quantitativas realizadas pela própria Box1824 e
+outros estudos realizados sobre o tema,
+para além do original de 2022.
+ETAPA QUANTI DO PROJETO
+SOBRE IA GENERATIVA NO BRASIL
+BOX1824
+Questionário online com empresas
+que desenvolvem ou trabalham
+com Gen IA aqui no Brasil, a fim de
+entender as principais dores
+e oportunidades do mercado.
+AMOSTRA TOTAL:
+63 respostas
+PERÍODO:
+Março/24
+UNIVERSO:
+Base de startups de empresas que desenvolvem
+Gen IA da ABRIA, ABINC, Distrito, OFUTURO
+Hub, Anjos do Brasil e Cubo
+LATIN AMERICA DIGITAL
+TRANSFORMATION REPORT 2023
+ATLANTICO & GOOGLE FOR
+STARTUPS
+Relatório produzido pela VC
+focado no desenvolvimento
+e crescimento da Inteligência
+Artificial na América Latina.
+AMOSTRA TOTAL:
+253 respostas
+PERÍODO:
+2023
+UNIVERSO:
+Dados secundários de diversas fontes
+GLOBAL VIEWS ON AI
+IPSOS
+Pesquisa realizada em diversos
+países para mapear a percepção
+das pessoas sobre os riscos de
+desinformação da era da Gen IA.
+AMOSTRA TOTAL:
+21.816 respostas
+PERÍODO:
+April 21 – May 5, 2023
+UNIVERSO:
+Cidadãos de 29 países.
+INTELIGÊNCIA ARTIFICIAL:
+REPORT 2023
+DISTRITO
+Mapeamento do ecossistema
+de startups, que buscou trazer
+à luz aquelas que estão ajudando
+na implementação de tecnologias
+ligadas ao mercado de IA na
+América Latina.
+PERÍODO:
+2023
+UNIVERSO:
+Banco de dados de startups proprietário do
+Distrito.
+ARTIFICIAL INTELLIGENCE
+INDEX REPORT 2024
+HAI STANFORD UNIVERSITY
+O relatório de Stanford é uma
+referência global que rastreia,
+compila, condensa e visualiza
+dados relacionados à IA no
+mundo inteiro. Sua missão é
+fornecer dados imparciais,
+rigorosamente examinados para
+que formuladores de políticas,
+pesquisadores, executivos,
+jornalistas e o público em geral
+desenvolvam uma compreensão
+mais completa e nuançada do
+complexo campo da IA.
+PERÍODO:
+2023
+UNIVERSO:
+Dados secundários de diversas fontes
+93
+DETALHAMENTO
+Metodologias
+VOCÊ TRABALHA EM UMA STARTUP
+QUE DESENVOLVE E/OU TRABALHA
+COM INTELIGÊNCIA ARTIFICIAL?
+Sim
+Não
+6.35%
+Sim: 59
+Não: 4
+Total: 63
+93.65%
+Responderam: 63
+Ignoraram: 0
+EM QUAL RODADA DE INVESTIMENTO A STARTUP
+QUE VOCÊ TRABALHA ESTÁ ATUALMENTE?
+Nenhuma: 24
+Pre-seed: 18
+Seed: 8
+Serie A: 8
+Serie B: 2
+Serie C: 1
+Não sei: 2
+Responderam: 63
+Ignoraram: 0
+38.10%
+28.57%
+12.70% 12.70%
+3.17% 1.59% 3.17%
+Nenhuma Pre-seed Seed Série A Série C Não sei
+Série B
+QUAL É O MODELO DE NEGÓCIO ATUAL DA STARTUP
+EM QUE VOCÊ TRABALHA?
+B2B
+71%
+A STARTUP UTILIZA E/OU DESENVOLVE
+FERRAMENTAS DE IA GENERATIVA?
+B2B2C
+19%
+B2C
+5%
+B2G
+2%
+Outros
+3%
+Sim
+Não
+0%
+Sim: 63
+Não: 0
+Total: 63
+100%
+B2B (startup tem outras empresas como clientes): B2C (startup tem o consumidor final como cliente): 3
+B2B2C (startup tem empresas e consumidor final como cliente): B2G (startup tem a esfera pública como cliente): 1
+Outro: 2
+45
+12
+Responderam: 63
+Ignoraram: 0
+Responderam: 63
+Ignoraram: 0
+94
+CAPA
+CAPA
+Imagine a modern, minimalist background with blue and
+green pastel colors, simple shapes, geometric forms, a
+yellow circle in the corner of the composition, soft shadow,
+high resolution.
+Imagine a Bauhaus background design: colorful, geometric,
+detailed, with shapes in 3D. Full screen, vibrant colors of
+Brazilian flag shapes with red, regular shapes.
+PÁGINA 9
+PÁGINA 14
+Apêndice
+Imagine minimalist colorful shapes and geometry on a blue
+background in the style of Ivan Chermayeff. 3D isometric
+view illustration style.
+Create an image of a colorful background of geometric
+shapes colored red, yellow, green, and blue.
+Prompts usados
+para criação de
+imagens no Gemini
+PÁGINA 17 PÁGINA 19
+Imagine a blue ball rolling down a green striped slope,
+wallpaper, 3D rendering, minimalism, high resolution, high
+quality, high detail, volumetric lighting, Octane Render, HDR,
+high dynamic range, high contrast, wide-angle lens, sharp
+focus, depth of field, perspective effect, color grading,
+symmetrical composition, soft shadows, no grainy textures,
+no textural elements, no blurring.
+3D abstract shapes in the colors of green and blue,
+arranged to create an illusionary effect on a black
+background. The minimalistic design has smooth curves
+that resemble circles or oiken petals, giving it a sense
+of motion as if they were floating in midair. This artwork
+symbolizes growth and infinite possibilities, with each
+shape representing different aspects of life such as love,
+creativity, connection and development. The style is in
+the style of abstract expressionism.
+Make it more vertical, extrapolating the limits of the image
+Metodologia e apêndice 95
+PÁGINA 21
+PÁGINA 25
+Imagine a minimal 3D rendering of cubes dispersed, blue
+texture, muted dark blue color, falling or floating on a solid
+muted dark blue background, close crop, shallow depth
+of field, sharp focus.
+Imagine Google colors: bright yellow, green, blue, and red,
+with an abstract curved art background. 3D.
+PÁGINA 32
+PÁGINA 42
+Apêndice
+Imagine an abstract symmetrical composition with big strip
+shapes in the colors green, blue, yellow, and pink. Minimalist
+style in the style of Moiré. The background color should be a
+vibrant green. Simple shapes arranged at equal distances. Strips.
+Create an image with a minimalist background with blue,
+green, and teal color blocks, rounded forms, low-angle shot,
+closeup, rendered in Cinema 4D, in the style of James Turrell.
+Prompts usados
+para criação de
+imagens no Gemini
+PÁGINA 44
+Imagine a minimalist photograph with a blue background
+depicting a yellow ball rolling on the edge of an abstract blue
+circle. The image has high contrast and sharp focus with a simple
+composition. Vibrant colors and geometric shapes with smooth
+curves are featured at high resolution in a futuristic style.
+PÁGINA 48
+Imagine a modern, minimalist background with
+yellow and green vibrant colors, simple shapes,
+geometric forms, a blue circle in the corner of
+the composition, soft shadow, high resolution.
+PÁGINA 50
+Imagine Google colors: bright yellow, green, blue, and red,
+with an abstract curved art background. 3D.
+Metodologia e apêndice 96
+Apêndice
+Prompts usados
+para criação de
+imagens no Gemini
+PÁGINA 56
+Imagine a minimal and dynamic design with large, colorful
+shapes in green, blue, red, yellow, and pink forming the
+number "8", in the style of Peter Saville's work for Richard
+Longo's art. The composition is symmetrical, with each shape
+perfectly aligned to create an elegant yet playful visual effect.
+This design would be suitable as wallpaper or packaging,
+using bright colors that stand out against a solid background.
+PÁGINA 83
+Imagine a minimalist background with a red color scheme and
+diagonal stripes, featuring a yellow ball rolling on the surface.
+The ball is in sharp focus against the striped backdrop, creating
+a sense of movement and depth. This design creates a visually
+striking composition that highlights both the simplicity and
+elegance of simple shapes and colors.
+PÁGINA 60
+Imagine an isometric field of cubes. Bright colors with
+a triadic color scheme. 3D.
+PÁGINA 82
+Create a 3D rendering photograph of colorful geometric blocks
+with circles on a yellow background in the style of various
+artists. The blocks are arranged in an abstract formation with
+overlapping shapes and repeating circles. The style draws
+inspiration from multiple designers known for their use of bold
+colors, geometric patterns, and minimal compositions.
+CONTRACAPA
+magine a minimal 3D rendering of cubes dispersed, blue texture,
+muted dark blue color, falling or floating on a solid muted dark
+blue background, close crop, shallow depth of field, sharp focus.
+97
+Agradecimento
+Este estudo contou com a participação de importantes atores
+do ecossistema de startups do Brasil. Agradecemos o apoio
+da Abria, Abinc, Anjos do Brasil, Cubo, Distrito e O Futuro.
